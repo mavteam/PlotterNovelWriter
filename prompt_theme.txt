@@ -1,0 +1,8 @@
+<<UUID>>
+Given the following story, write a paragraph or two about the theme of the story. Be imaginative and creative! Explore universal truths and ideas.
+
+TITLE: <<TITLE>>
+
+PREMISE: <<PREMISE>>
+
+THEME:

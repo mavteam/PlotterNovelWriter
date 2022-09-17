@@ -1,0 +1,6 @@
+<<UUID>>
+Come up with the perfect title for the following premise. The title should be pithy, catchy, and memorable.
+
+PREMISE: <<PREMISE>>
+
+UNIQUE PERFECT TITLE:

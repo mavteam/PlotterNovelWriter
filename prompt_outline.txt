@@ -1,0 +1,14 @@
+<<UUID>>
+Brainstorm a highly detailed plot outline. List all the story beats in sequence and describe each plot element with a few sentences.
+
+TITLE: <<TITLE>>
+
+PREMISE: <<PREMISE>>
+
+THEME: <<THEME>>
+
+SETTING: <<SETTING>>
+
+CHARACTERS: <<CHARACTERS>>
+
+PLOT OUTLINE:
