@@ -76,8 +76,9 @@ def generate_synopsis():
     prompt = prompt.replace('<<UUID>>', str(uuid4()))
     print('\n\nPROMPT:', prompt)
     # generate and save synopsis
-    synopsis = 'APPEAL TERMS: %s, %s, %s, %s, %s, %s, %s, %s\n\nBEGINNING: ' % (genre, setting, timeperiod, character, pace, style, tone, storyline)
-    synopsis = synopsis + gpt3_completion(prompt).replace('SYNOPSIS:','').replace('  ', ' ')
+    #synopsis = 'APPEAL TERMS: %s, %s, %s, %s, %s, %s, %s, %s\n\nBEGINNING: ' % (genre, setting, timeperiod, character, pace, style, tone, storyline)
+    #synopsis = synopsis + gpt3_completion(prompt).replace('SYNOPSIS:','').replace('  ', ' ')
+    synopsis = gpt3_completion(prompt).replace('SYNOPSIS:','').replace('BEGINNING:', '').replace('MIDDLE:','').replace('END:','').replace('  ', ' ')
     return synopsis
 
 
@@ -93,11 +94,12 @@ def improve_synopsis(synopsis):
 
 
 if __name__ == '__main__':
-    synopsis = generate_synopsis()
-    print('\n\nORIGINAL SYNOPSIS:', synopsis)
-    #synopsis = improve_synopsis(synopsis)
-    #synopsis = improve_synopsis(synopsis)
-    unique_id = str(uuid4())
-    save_file('current_id.txt', unique_id)
-    filename = 'synopses/%s.txt' % unique_id
-    save_file(filename, synopsis)
+    for i in list(range(0,200)):
+        synopsis = generate_synopsis()
+        print('\n\nSYNOPSIS:', synopsis)
+        #synopsis = improve_synopsis(synopsis)
+        #synopsis = improve_synopsis(synopsis)
+        unique_id = str(uuid4())
+        save_file('current_id.txt', unique_id)
+        filename = 'synopses/%s.txt' % unique_id
+        save_file(filename, synopsis)
