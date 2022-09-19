@@ -1,0 +1,54 @@
+Clean up the following character profile. Remove redundancy and format it better.
+
+
+PROFILE: 3. Ensign Susan smith: The ship's communications officer. She is a bright and bubbly person. She is always upbeat and positive. She is known for her cheerful attitude.
+Ensign Susan Smith was born on Earth in the year 2256. She grew up in a small town in the United States of America. Her parents were both farmers. She was the middle child of three sisters. Growing up, Susan was a bright and outgoing child. She loved to explore the forests near her home and dreamed of one day becoming an astronaut. When she was eighteen, she enrolled in the Starfleet Academy. She excelled in her studies and was soon assigned to the USS Ernest Rutherford. She was thrilled to be a part of the crew and excited to explore the galaxy.
+-Cheerful attitude
+
+-Always positive
+
+-Good communication skills
+
+-Loyal
+
+-Protective
+
+-Can be impulsive
+
+-Sometimes takes risks without thinking
+
+-Can be nave
+
+DARKEST SECRET:
+
+-She is afraid of being alone.
+
+-She sometimes feels like she is not good enough.
+
+TRUE LIGHT AND INNER POWER:
+
+-She is a loyal and protective friend.
+
+-She is always willing to help others.
+
+-She is brave and courageous.
+-She believes in the importance of exploration and discovery.
+
+-She is a strong believer in the Federation and its values.
+
+-She believes in the value of teamwork and cooperation.
+
+-She is highly loyal to her ship and crew.
+
+-She has a strong sense of duty and responsibility.
+
+-She is highly intelligent and resourceful.
+
+-She is always willing to help others.
+
+
+CLEANED VERSION:
+
+==========
+
+Ensign Susan Smith is the ship's communications officer. She is known for her cheerful attitude and always positive outlook. Susan is a loyal friend and protective of those she cares about. She can be impulsive and sometimes takes risks without thinking, but she is also brave and courageous. A strong believer in the Federation, Susan is highly intelligent and resourceful. She is always willing to help others and is a valuable asset to her ship and crew.

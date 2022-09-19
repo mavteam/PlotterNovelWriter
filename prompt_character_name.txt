@@ -1,0 +1,5 @@
+What is the name of this character? Perform Named Entity Recognition.
+
+CHARACTER: <<CHARACTER>>
+
+NER:

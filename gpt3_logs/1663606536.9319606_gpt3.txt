@@ -1,0 +1,29 @@
+Clean up the following character profile. Remove redundancy and format it better.
+
+
+PROFILE: 5. Chief Engineer John Garcia: The ship's chief engineer. He is a hard-working and practical man. He is always the voice of reason. He is known for his no-nonsense attitude.
+John Garcia was born on Earth in 2333. His parents were both engineers and they instilled a love of engineering in him from a young age. He attended the Academy and graduated with honors. He served on a number of ships before being assigned to the USS Ernest Rutherford. He is a decorated officer and he takes great pride in his work. He is a widower and has a young daughter. He is always thinking about her and he wants nothing more than to see her again.
+-Practical
+-No-nonsense
+-Hard-working
+-Dedicated to his work
+
+-Loses focus when thinking about his daughter
+-Can be too stubborn
+-Can be inflexible
+-Believes that order and discipline are essential in life
+
+-Takes great pride in his work and his accomplishments
+
+-Loyal to his ship and crew
+
+-Wants nothing more than to see his daughter again
+
+-Driven by a need to rescue his crew
+
+
+CLEANED VERSION:
+
+==========
+
+Chief Engineer John Garcia is a hard-working, practical man who is always the voice of reason. He is known for his no-nonsense attitude and takes great pride in his work. He is a widower with a young daughter and is always thinking about her. He is a decorated officer who has served on a number of ships.

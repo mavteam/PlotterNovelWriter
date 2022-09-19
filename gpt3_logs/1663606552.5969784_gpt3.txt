@@ -1,0 +1,34 @@
+Clean up the following character profile. Remove redundancy and format it better.
+
+
+PROFILE: 6. The aliens: A race of unknown creatures that attack Wilder's ship. They are vicious and brutal. They are known for their ferocity.
+The aliens are a race of creatures that come from a distant planet. They are a war-like people who have been at war with their neighbors for centuries. They are a brutal and vicious people, known for their ferocity in battle. They have always been a threat to any ship that enters their space.
+-The aliens are physically strong and ferocious.
+
+-They are also very intelligent and have a strong grasp of technology.
+
+-They are experts in torture and know how to break a person down mentally.
+
+-They are relentless and will not give up easily.
+
+-They are also very xenophobic and distrustful of outsiders.
+-The aliens believe that violence is the only way to solve problems.
+
+-They are a race of war-like people who have been at war with their neighbors for centuries.
+
+-They are a brutal and vicious people, known for their ferocity in battle.
+
+-They see other races as inferior and are not afraid to use force to get what they want.
+
+-The aliens are not to be trusted and are not to be negotiated with.
+
+
+CLEANED VERSION:
+
+==========
+
+The aliens are a race of creatures that come from a distant planet. They are a war-like people who have been at war with their neighbors for centuries. They are a brutal and vicious people, known for their ferocity in battle. They have always been a threat to any ship that enters their space.
+
+The aliens are physically strong and ferocious. They are also very intelligent and have a strong grasp of technology. They are experts in torture and know how to break a person down mentally. They are relentless and will not give up easily.
+
+The aliens believe that violence is the only way to solve problems. They see other races as inferior and are not afraid to use force to get what they want. The aliens are not to be trusted and are not to be negotiated with.

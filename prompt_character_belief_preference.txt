@@ -1,0 +1,7 @@
+Brainstorm this character's beliefs and preferences. What do they think about the world, people, and themselves? What do they like and dislike?
+
+STORY: <<SYNOPSIS>>
+
+CHARACTER: <<BACKSTORY>> <<CHARACTER>>
+
+PREFERENCES AND BELIEFS:

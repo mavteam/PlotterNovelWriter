@@ -1,0 +1,7 @@
+Brainstorm this character's backstory. Imagine their life before this story takes place.
+
+STORY: <<SYNOPSIS>>
+
+CHARACTER: <<CHARACTER>>
+
+BACKSTORY:

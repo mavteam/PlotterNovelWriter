@@ -56,7 +56,7 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=1.1, top_p=1.0, toke
 def generate_section(file, variables):
     prompt = open_file(file)
     for i in list(variables.keys()):
-        prompt = prompt.replace(i, variables[i])
+        prompt = prompt.replace('<<%s>>' % i, variables[i])
     result = gpt3_completion(prompt)
     print('\n\n', result)
     return result
@@ -65,20 +65,20 @@ def generate_section(file, variables):
 if __name__ == '__main__':
     unique_id = open_file('current_id.txt')
     synopsis = open_file('synopses/%s.txt' % unique_id)
-    variables = {'<<SYNOPSIS>>': synopsis}
+    variables = {'SYNOPSIS': synopsis}
     print('\n\nSYNOPSIS:', synopsis)
     # theme
     theme = generate_section('prompt_theme.txt', variables)
-    variables['<<THEME>>'] = theme
+    variables['THEME'] = theme
     # characters
     characters = generate_section('prompt_characters.txt', variables)
-    variables['<<CHARACTERS>>'] = characters
+    variables['CHARACTERS'] = characters
     # setting
     setting = generate_section('prompt_setting.txt', variables)
-    variables['<<SETTING>>'] = setting
+    variables['SETTING'] = setting
     # plot
     plot = generate_section('prompt_plot.txt', variables)
-    variables['<<PLOT>>'] = plot
+    variables['PLOT'] = plot
     # save as JSON
     filepath = 'BasicOutlines/%s.json' % unique_id
     save_json(filepath, variables)

@@ -1,0 +1,29 @@
+Rewrite the following as a single profile.
+
+
+NAME: John Garcia
+BACKSTORY: John Garcia was born on a small colony world. His parents were farmers. They worked hard to make a living, but they never had much. When Garcia was sixteen, he left home to join the Starfleet Academy. He was determined to make something of himself. He worked hard at the Academy and graduated with honors. He was assigned to the USS Ernest Rutherford as the chief engineer. He has served on the ship for four years. He is a loyal and dedicated member of the crew. He cares about his ship and his crewmates. He would do anything to keep them safe.
+STRENGTHS AND WEAKNESS: -Garcia is a highly skilled engineer. He is able to find creative solutions to problems.
+-He is a loyal friend and an excellent leader. He is always looking out for the best interests of his crew.
+-He can be stubborn and inflexible. He sometimes has trouble seeing other points of view.
+-He is afraid of failing. He wants to be the best engineer he can be, but he sometimes doubts his abilities.
+-He is haunted by the memories of his crewmates who have died. He blames himself for their deaths.
+-He is driven by the need to find and rescue his crewmates. He is willing to risk his own life to save them.
+BELIEFS AND PREFERENCES: -He believes in the importance of hard work.
+-He is practical and level-headed.
+-He dislikes people who waste time and resources.
+-He is loyal and dedicated to his ship and crew.
+-He is willing to do whatever it takes to protect them.
+
+
+CHARACTER PROFILE:
+
+==========
+
+Name: John Garcia
+
+Backstory: John Garcia was born on a small colony world. His parents were farmers. They worked hard to make a living, but they never had much. When Garcia was sixteen, he left home to join the Starfleet Academy. He was determined to make something of himself. He worked hard at the Academy and graduated with honors. He was assigned to the USS Ernest Rutherford as the chief engineer. He has served on the ship for four years. He is a loyal and dedicated member of the crew. He cares about his ship and his crewmates. He would do anything to keep them safe.
+
+Strengths and Weaknesses: Garcia is a highly skilled engineer. He is able to find creative solutions to problems. He is a loyal friend and an excellent leader. He is always looking out for the best interests of his crew. He can be stubborn and inflexible. He sometimes has trouble seeing other points of view. He is afraid of failing. He wants to be the best engineer he can be, but he sometimes doubts his abilities. He is haunted by the memories of his crewmates who have died. He blames himself for their deaths. He is driven by the need to find and rescue his crewmates. He is willing to risk his own life to save them.
+
+Beliefs and Preferences: He believes in the importance of hard work. He is practical and level-headed. He dislikes people who waste time and resources. He is loyal and dedicated to his ship and crew. He is willing to do whatever it takes to protect them.

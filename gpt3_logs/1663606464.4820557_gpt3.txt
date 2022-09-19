@@ -1,0 +1,44 @@
+Clean up the following character profile. Remove redundancy and format it better.
+
+
+PROFILE: 1. Captain J.T. Wilder: The story's protagonist. He is the captain of the starship USS Ernest Rutherford. He is a brave and brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them.
+Wilder was born on Earth in the year 2235. He always wanted to explore the stars and he joined the Starfleet Academy when he was eighteen. He graduated at the top of his class and was quickly promoted to captain. He has been on many missions, but none of them have been as dangerous as his latest one. When his ship is attacked by aliens, he is wounded and taken prisoner. He is subjected to torture and experimentation, but he does not break. He is finally able to escape and he makes his way back to his ship. He is determined to find and rescue his crew.
+-Wilder is a brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them.
+
+-However, Wilder is also stubborn and resistant to change. He is set in his ways and he doesn't like to take risks.
+
+-Wilder is also very secretive. He doesn't like to share his feelings or emotions with others.
+
+DARKEST SECRET:
+
+Wilder's darkest secret is that he is afraid of change. He doesn't like to take risks and he is resistant to change. This often puts him at odds with his crew and it makes it difficult for him to make decisions.
+
+LIGHT AND INNER POWER:
+
+Despite his fear of change, Wilder is still a brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them. He is also motivated by his sense of duty and his love for his crew.
+2. Captain Wilder believes in the importance of exploration and discovery. He is always looking for new worlds and new lifeforms to study.
+
+3. Captain Wilder is a strong and determined leader. He never gives up, even in the face of overwhelming odds.
+
+4. Captain Wilder is a good man. He always tries to do what is right, even if it is not easy.
+
+5. Captain Wilder is a brave man. He is not afraid to face danger, even if it means sacrificing himself.
+
+6. Captain Wilder is a selfless man. He is always willing to help others, even if it means putting himself in danger.
+
+7. Captain Wilder is a compassionate man. He cares about others and always tries to help them, even if they are not part of his crew.
+
+8. Captain Wilder is a just man. He believes in fairness and always tries to treat others fairly, even if they have done something to harm him or his crew.
+
+
+CLEANED VERSION:
+
+==========
+
+1. Captain J.T. Wilder is the story's protagonist and the captain of the starship USS Ernest Rutherford. He is a brave and determined leader who is always looking out for his crew. 
+
+2. Wilder was born on Earth in the year 2235. He always wanted to explore the stars and he joined the Starfleet Academy when he was eighteen. He graduated at the top of his class and was quickly promoted to captain. 
+
+3. Wilder has been on many missions, but none of them have been as dangerous as his latest one. When his ship is attacked by aliens, he is wounded and taken prisoner. He is subjected to torture and experimentation, but he does not break. He is finally able to escape and he makes his way back to his ship. He is determined to find and rescue his crew.
+
+4. Despite his fear of change, Wilder is still a brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them. He is also motivated by his sense of duty and his love for his crew.

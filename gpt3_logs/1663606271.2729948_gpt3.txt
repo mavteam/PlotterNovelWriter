@@ -1,0 +1,66 @@
+Clean up the following character profile. Remove redundancy and format it better.
+
+
+PROFILE: 1. Captain J.T. Wilder: The story's protagonist. He is the captain of the starship USS Ernest Rutherford. He is a brave and brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them.
+1. J.T. Wilder was born on Earth in the year 2236. He grew up during a time of great exploration and adventure.
+
+2. When he was 18, he enlisted in the Starfleet Academy.
+
+3. After graduating from the Academy, he was assigned to the USS Ernest Rutherford.
+
+4. The Rutherford was on a five-year mission to explore deep space.
+
+5. On their latest mission, the ship was attacked by a horde of aliens.
+
+6. Wilder was wounded and taken prisoner by the aliens.
+
+7. He was taken to their home world, where he was experimented on and subjected to unthinkable torture.
+
+8. As he suffered, Wilder's mind started to unravel.
+
+9. He saw his ship and crew, but they were in different places and different times.
+
+10. He saw a way to escape.
+
+11. Wilder finally broke free from his captors and made his way back to his ship.
+
+12. He is driven by a single purpose: to find and rescue his crew.
+-Brave
+-Determined
+-Strong
+-Leadership skills
+-Protective
+
+-Subject to visions and hallucinations
+-Tortured and experimented on by aliens
+-Suffers from PTSD
+1. Captain Wilder believes in the importance of exploration and adventure. He feels that it is essential to the human experience.
+
+2. He also believes in the importance of teamwork and camaraderie. He knows that his crew is like a family and he would do anything for them.
+
+3. Wilder is a strong and determined leader. He does not give up easily and he is always looking for a way to win.
+
+4. He is also a very spiritual person. He often has visions and he believes in a higher power.
+
+5. Wilder is a good person. He believes in doing what is right, even if it is not easy.
+
+
+CLEANED VERSION:
+
+==========
+
+1. J.T. Wilder is the captain of the starship USS Ernest Rutherford. He is a brave and determined leader who is always looking out for his crew.
+
+2. Wilder was born on Earth in the year 2236 and enlisted in the Starfleet Academy when he was 18.
+
+3. After graduating from the Academy, he was assigned to the USS Ernest Rutherford. The Rutherford was on a five-year mission to explore deep space.
+
+4. On their latest mission, the ship was attacked by a horde of aliens. Wilder was wounded and taken prisoner by the aliens.
+
+5. He was taken to their home world, where he was experimented on and subjected to unthinkable torture. As he suffered, Wilder's mind started to unravel.
+
+6. He saw his ship and crew, but they were in different places and different times. He saw a way to escape.
+
+7. Wilder finally broke free from his captors and made his way back to his ship. He is driven by a single purpose: to find and rescue his crew.
+
+8. Wilder suffers from PTSD as a result of his ordeal. However, he remains a strong and determined leader.
