@@ -12,6 +12,6 @@ TONE: <<TONE>>
 STYLE: <<STYLE>>
 
 
-Extremely long and highly detailed complete plot synopsis with beginning, middle, and end.
+Extremely long and highly detailed complete plot synopsis with beginning, middle, and end. Include character and setting names.
 
 BEGINNING:

@@ -1,9 +1,10 @@
 import re
 import os
+import json
 import openai
+from uuid import uuid4
 from time import time,sleep
 from random import seed,choice
-from uuid import uuid4
 
 
 def open_file(filepath):
@@ -14,6 +15,11 @@ def open_file(filepath):
 def save_file(filepath, content):
     with open(filepath, 'w', encoding='utf-8') as outfile:
         outfile.write(content)
+
+
+def save_json(filepath, payload):
+    with open(filepath, 'w', encoding='utf-8') as outfile:
+        json.dump(payload, outfile, ensure_ascii=False, sort_keys=True, indent=1)
 
 
 openai.api_key = open_file('openaiapikey.txt')
@@ -35,7 +41,7 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=1.1, top_p=1.0, toke
                 presence_penalty=pres_pen,
                 stop=stop)
             text = response['choices'][0]['text'].strip()
-            text = re.sub('\s+', ' ', text)
+            #text = re.sub('\s+', ' ', text)
             filename = '%s_gpt3.txt' % time()
             save_file('gpt3_logs/%s' % filename, prompt + '\n\n==========\n\n' + text)
             return text
@@ -47,57 +53,32 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=1.1, top_p=1.0, toke
             sleep(1)
 
 
-def pick_random(filename):
-    seed()
-    lines = open_file(filename).splitlines()
-    return choice(lines)
-
-
-def generate_synopsis():
-    # pick random variables
-    genre = pick_random('genres.txt')
-    tone = pick_random('tones.txt')
-    character = pick_random('characters.txt')
-    pace = pick_random('paces.txt')
-    storyline = pick_random('storylines.txt')
-    style = pick_random('styles.txt')
-    setting = pick_random('settings.txt')
-    timeperiod = pick_random('times.txt')
-    # instantiate prompt
-    prompt = open_file('prompt_synopsis.txt')
-    prompt = prompt.replace('<<GENRE>>', genre)
-    prompt = prompt.replace('<<TONE>>', tone)
-    prompt = prompt.replace('<<CHARACTER>>', character)
-    prompt = prompt.replace('<<PACE>>', pace)
-    prompt = prompt.replace('<<STORYLINE>>', storyline)
-    prompt = prompt.replace('<<STYLE>>', style)
-    prompt = prompt.replace('<<SETTING>>', setting)
-    prompt = prompt.replace('<<TIME>>', timeperiod)
-    prompt = prompt.replace('<<UUID>>', str(uuid4()))
-    print('\n\nPROMPT:', prompt)
-    # generate and save synopsis
-    synopsis = 'APPEAL TERMS: %s, %s, %s, %s, %s, %s, %s, %s\n\nBEGINNING: ' % (genre, setting, timeperiod, character, pace, style, tone, storyline)
-    synopsis = synopsis + gpt3_completion(prompt).replace('SYNOPSIS:','').replace('  ', ' ')
-    return synopsis
-
-
-def improve_synopsis(synopsis):
-    # TODO - this will require more thought and possibly finetuning
-    prompt = open_file('prompt_feedback.txt').replace('<<SYNOPSIS>>', synopsis)
-    feedback = gpt3_completion(prompt)
-    print('\n\nFEEDBACK:', feedback)
-    prompt = open_file('prompt_rewrite.txt').replace('<<SYNOPSIS>>', synopsis).replace('<<FEEDBACK>>', feedback)
-    synopsis = gpt3_completion(prompt)
-    print('\n\nIMPROVED SYNOPSIS:', synopsis)
-    return synopsis
+def generate_section(file, variables):
+    prompt = open_file(file)
+    for i in list(variables.keys()):
+        prompt = prompt.replace(i, variables[i])
+    result = gpt3_completion(prompt)
+    print('\n\n', result)
+    return result
 
 
 if __name__ == '__main__':
-    synopsis = generate_synopsis()
-    print('\n\nORIGINAL SYNOPSIS:', synopsis)
-    #synopsis = improve_synopsis(synopsis)
-    #synopsis = improve_synopsis(synopsis)
-    unique_id = str(uuid4())
-    save_file('current_id.txt', unique_id)
-    filename = 'synopses/%s.txt' % unique_id
-    save_file(filename, synopsis)
+    unique_id = open_file('current_id.txt')
+    synopsis = open_file('synopses/%s.txt' % unique_id)
+    variables = {'<<SYNOPSIS>>': synopsis}
+    print('\n\nSYNOPSIS:', synopsis)
+    # theme
+    theme = generate_section('prompt_theme.txt', variables)
+    variables['<<THEME>>'] = theme
+    # characters
+    characters = generate_section('prompt_characters.txt', variables)
+    variables['<<CHARACTERS>>'] = characters
+    # setting
+    setting = generate_section('prompt_setting.txt', variables)
+    variables['<<SETTING>>'] = setting
+    # plot
+    plot = generate_section('prompt_plot.txt', variables)
+    variables['<<PLOT>>'] = plot
+    # save as JSON
+    filepath = 'BasicOutlines/%s.json' % unique_id
+    save_json(filepath, variables)

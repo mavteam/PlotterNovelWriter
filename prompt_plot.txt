@@ -1,0 +1,10 @@
+Brainstorm a highly detailed plot outline with at least 12 plot beats. List all the story beats in sequence and describe each plot element with a few sentences.
+
+STORY: <<SYNOPSIS>>
+
+THEME: <<THEME>>
+
+CHARACTERS:
+<<CHARACTERS>>
+
+LONG DETAILED PLOT OUTLINE:

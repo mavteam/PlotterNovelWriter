@@ -1,12 +1,7 @@
-<<UUID>>
-Brainstorm original characters for the following story. List names, backstories, and personalities.
+Brainstorm original characters for the following story. List names, backstories, and personalities. Vividly depict all characters. Invent names if necessary.
 
-TITLE: <<TITLE>>
+STORY: <<SYNOPSIS>>
 
-PREMISE: <<PREMISE>>
+UNIVERSAL TRUTH: <<THEME>>
 
-THEME: <<THEME>>
-
-SETTING: <<SETTING>>
-
-BRAINSTORM ORIGINAL CHARACTERS:
+LIST OF CHARACTERS:

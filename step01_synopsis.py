@@ -94,7 +94,7 @@ def improve_synopsis(synopsis):
 
 
 if __name__ == '__main__':
-    for i in list(range(0,200)):
+    #for i in list(range(0,200)):
         synopsis = generate_synopsis()
         print('\n\nSYNOPSIS:', synopsis)
         #synopsis = improve_synopsis(synopsis)

@@ -1,8 +1,5 @@
-<<UUID>>
-Given the following story, write a paragraph or two about the theme of the story. Be imaginative and creative! Explore universal truths and ideas.
+Describe the theme of the following story in a few sentences. What is the universal truth elucidated by this story?
 
-TITLE: <<TITLE>>
+STORY: <<SYNOPSIS>>
 
-PREMISE: <<PREMISE>>
-
-THEME:
+UNIVERSAL TRUTH:

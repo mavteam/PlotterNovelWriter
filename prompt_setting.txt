@@ -1,10 +1,5 @@
-<<UUID>>
-Brainstorm about the setting for the following story. Write a few paragraphs. If there are multiple settings, list them out and write about them. Include details such as history, culture, geography, and so on. Be specific! Come up with place names and concrete details.
+Use your imagination to brainstorm details about the setting. Think about history, culture, atmosphere, religion, politics, and so on.
 
-TITLE: <<TITLE>>
+STORY: <<SYNOPSIS>>
 
-PREMISE: <<PREMISE>>
-
-THEME: <<THEME>>
-
-DETAILED SETTING:
+BRAINSTORM SETTING IDEAS:
