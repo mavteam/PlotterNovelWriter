@@ -1,0 +1,9 @@
+What is the name of this character? Perform Named Entity Recognition.
+
+CHARACTER: 4. Dr. Jake Riley: The ship's medical officer. He is a serious and serious-minded man. He is always the voice of reason. He is known for his calm and collected demeanor.
+
+NER:
+
+==========
+
+Dr. Jake Riley

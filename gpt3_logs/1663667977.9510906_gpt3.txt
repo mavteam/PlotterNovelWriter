@@ -1,0 +1,34 @@
+Rewrite the following as a single profile.
+
+
+NAME: Ensign Susan Smith
+BACKSTORY: Susan was born on Earth, in the year 2236. Her parents were both Starfleet officers. She was raised on various starships and starbases. She always wanted to be a Starfleet officer like her parents. When she was eighteen, she enrolled in Starfleet Academy. She graduated four years later and was assigned to the USS Ernest Rutherford. She has been serving on the ship for two years.
+STRENGTHS AND WEAKNESS: Strengths:
+-Cheerful attitude
+-Always positive
+-Bright and bubbly
+Weaknesses:
+-Can be naive
+-Too trusting
+-Gullible
+BELIEFS AND PREFERENCES: -She believes in the power of the Starfleet and its mission to explore and protect.
+-She is a strong supporter of the Federation and its values.
+-She believes in the importance of teamwork and cooperation.
+-She is a loyal friend and an excellent team player.
+-She has a strong sense of duty and honor.
+-She is always ready to help others, no matter what the cost.
+-She is brave and courageous, even in the face of danger.
+-She is hopeful and optimistic, even in the darkest of times.
+
+
+CHARACTER PROFILE:
+
+==========
+
+Name: Ensign Susan Smith
+
+Backstory: Susan was born on Earth, in the year 2236. Her parents were both Starfleet officers. She was raised on various starships and starbases. She always wanted to be a Starfleet officer like her parents. When she was eighteen, she enrolled in Starfleet Academy. She graduated four years later and was assigned to the USS Ernest Rutherford. She has been serving on the ship for two years.
+
+Strengths and Weaknesses: Susan is a cheerful and positive person, who is always ready to help others. She can be naive and gullible, and she can sometimes be too trusting. However, she is also a loyal friend and an excellent team player.
+
+Beliefs and Preferences: Susan believes in the power of the Starfleet and its mission to explore and protect. She is a strong supporter of the Federation and its values. She believes in the importance of teamwork and cooperation.

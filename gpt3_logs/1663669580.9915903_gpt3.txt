@@ -1,0 +1,9 @@
+What is the name of this character? Perform Named Entity Recognition.
+
+CHARACTER: 5. Chief Engineer John Garcia: The ship's chief engineer. He is a hard-working and practical man. He is always the voice of reason. He is known for his no-nonsense attitude.
+
+NER:
+
+==========
+
+Chief Engineer John Garcia

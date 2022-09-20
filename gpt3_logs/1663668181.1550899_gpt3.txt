@@ -1,0 +1,15 @@
+Expand the following plot beat into 5 different scenes. Each scene must have a beginning, middle, and end. Describe each scene with a few sentences or paragraphs.
+
+BACKSTORY: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4182 tokens (1182 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+
+PLOT BEAT: 8.As he suffers at the hands of his captors, Wilder's mind starts to unravel. 
+
+DIFFERENT SCENES:
+
+==========
+
+1. Wilder is first captured and brought to the prison. He is beaten and tortured by the guards. His mind starts to unravel as he suffers at their hands. 
+2. Wilder is put in a cell with other prisoners. He is starved and beaten. His mind starts to unravel as he suffers at their hands. 
+3. Wilder is put in a cell by himself. He is starved and beaten. His mind starts to unravel as he suffers at their hands. 
+4. Wilder is put in a cell with other prisoners. He is tortured and his mind starts to unravel. 
+5. Wilder is put in a cell by himself. He is tortured and his mind starts to unravel.

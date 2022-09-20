@@ -1,0 +1,15 @@
+Expand the following plot beat into 5 different scenes. Each scene must have a beginning, middle, and end. Describe each scene with a few sentences or paragraphs.
+
+BACKSTORY: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4799 tokens (1799 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+
+PLOT BEAT: 12.He remains stubbornly resistant to their attempts to break him. 
+
+DIFFERENT SCENES:
+
+==========
+
+1. The first scene could show the character being interrogated by the authorities. They might try to use various methods to get him to talk, but he refuses to give in. 
+2. The second scene could show the character in his cell, where he is alone with his thoughts. He is trying to stay strong, but the isolation and lack of information is taking its toll. 
+3. The third scene could show the character being visited by a friend or loved one. They try to encourage him to hold on, but he is starting to lose hope. 
+4. The fourth scene could show the character being offered a deal by the authorities. If he cooperates, they will make things easier for him. But he knows that he cannot betray his principles. 
+5. The fifth scene could show the character being released from the interrogation. He has held firm, but at what cost?

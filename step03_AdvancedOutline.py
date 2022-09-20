@@ -59,20 +59,7 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, toke
             sleep(1)
 
 
-def generate_section(file, variables):
-    prompt = open_file(file)
-    for i in list(variables.keys()):
-        prompt = prompt.replace('<<%s>>' % i, variables[i])
-    result = gpt3_completion(prompt)
-    print('\n\n', result)
-    return result
-
-
-if __name__ == '__main__':
-    unique_id = open_file('current_id.txt')
-    story = open_json('BasicOutlines/%s.json' % unique_id)
-    result = story
-    #print(story['CHARACTERS'].replace('\n\n','\n'))
+def flesh_out_characters(story):
     # work on characters
     characters = story['CHARACTERS'].replace('\n\n','\n').splitlines()
     #print(characters)
@@ -98,7 +85,73 @@ if __name__ == '__main__':
         info = {'NAME': name, 'PROFILE': profile}
         character_list.append(info)
     pprint(character_list)
-    result['CHARACTERS'] = character_list
-    # work on plot
-    # work on setting
+    return character_list
+
+
+def flesh_out_theme(story):
+    theme = story['THEME']
+    print('Working on theme...')
+    prompt = open_file('prompt_theme_light.txt').replace('<<THEME>>', theme)
+    light = gpt3_completion(prompt, temp=1.0)
+    prompt = open_file('prompt_theme_dark.txt').replace('<<THEME>>', theme)
+    dark = gpt3_completion(prompt, temp=1.0)
+    prompt = open_file('prompt_theme_understand.txt').replace('<<THEME>>', theme)
+    understand = gpt3_completion(prompt, temp=1.0)
+    result = '%s %s %s %s' % (theme, light, dark, understand)
+    result = result.replace('\s+', ' ')
+    print('THEME:', result)
+    return result
+
+
+def flesh_out_setting(story):
+    print('Working on setting...')
+    setting = story['SETTING']
+    # TODO history, culture, religion, zeitgeist, mood, atmosphere, politics, economics, etc
+    print('SETTING:', setting)
+    return setting
+
+
+def flesh_out_scenes(story):
+    print('Working on scenes...')
+    plot_elements = story['PLOT'].replace('\n\n','\n').splitlines()
+    scenes = list()
+    summary = 'Beginning of story.'
+    idx = 1
+    for plot in plot_elements:
+        prompt = open_file('prompt_plot_scene.txt').replace('<<SUMMARY>>', summary).replace('<<PLOT>>', plot)
+        new_scenes = gpt3_completion(prompt, temp=0.75, engine='davinci', tokens=1000, stop=['SCENE 6', 'SUMMARY:', 'BACKSTORY:']).replace('\n\n','\n').replace('SCENE \d+:', '').splitlines()
+        pprint(new_scenes)
+        text = ''
+        for i in new_scenes:
+            scenes.append({'ID': idx, 'SCENE': i})
+            idx = idx + 1
+            text = '%s %s' % (text, i)
+        prompt = open_file('prompt_summary.txt').replace('<<STORY>>', '%s %s' % (summary, text))
+        summary = gpt3_completion(prompt).replace('\s+',' ')
+        print('\n\nSUMMARY:', summary)
+    pprint(scenes)
+    return scenes
+
+
+if __name__ == '__main__':
+    unique_id = open_file('current_id.txt')
+    story = open_json('BasicOutlines/%s.json' % unique_id)
+    result = story
+    # characters
+    #character_list = flesh_out_characters(story)    
+    #result['CHARACTERS'] = character_list
     # work on theme
+    #theme = flesh_out_theme(story)
+    #result['THEME'] = theme
+    # work on setting
+    # TODO GPT-3 is fucking awful at this
+    #setting = flesh_out_setting(story)
+    #result['SETTING'] = setting
+    # work on plot
+    scenes = flesh_out_scenes(story)
+    result['SCENES'] = scenes
+    # save as JSON
+    filepath = 'AdvancedOutlines/%s.json' % unique_id
+    save_json(filepath, result)
+    print('\n\n=================================================\n\n')
+    pprint(result)

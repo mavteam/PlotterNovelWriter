@@ -1,0 +1,15 @@
+Expand the following plot beat into 5 different scenes. Each scene must have a beginning, middle, and end. Describe each scene with a few sentences or paragraphs.
+
+BACKSTORY: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4983 tokens (1983 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+
+PLOT BEAT: 13.As he suffers, Wilder starts to have strange visions. 
+
+DIFFERENT SCENES:
+
+==========
+
+1. Wilder starts to experience strange visions while he is suffering. 
+2. In his visions, Wilder sees himself in different places and different times. 
+3. He sees himself as a child, playing with his friends. 
+4. He sees himself as a young adult, just out of college and starting his career. 
+5. In his final vision, Wilder sees himself as an old man, on his deathbed.

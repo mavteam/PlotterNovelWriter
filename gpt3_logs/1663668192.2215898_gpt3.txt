@@ -1,0 +1,19 @@
+Expand the following plot beat into 5 different scenes. Each scene must have a beginning, middle, and end. Describe each scene with a few sentences or paragraphs.
+
+BACKSTORY: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4331 tokens (1331 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+
+PLOT BEAT: 9.He begins to question who he is and what his purpose is. 
+
+DIFFERENT SCENES:
+
+==========
+
+1. Scene 1: The protagonist begins to question who he is and what his purpose is. He starts to feel like he is just going through the motions and not really living. 
+
+2. Scene 2: The protagonist tries to find answers to his questions by talking to friends, family, and experts. But he only feels more lost and confused. 
+
+3. Scene 3: The protagonist decides to take matters into his own hands and starts to experiment with different things, trying to find what makes him happy. 
+
+4. Scene 4: The protagonist has many ups and downs as he tries to find himself. He makes some progress but also hits some roadblocks. 
+
+5. Scene 5: The protagonist finally starts to feel like he is getting somewhere. He has a better understanding of who he is and what he wants out of life.

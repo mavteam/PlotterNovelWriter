@@ -1,0 +1,15 @@
+Expand the following plot beat into 5 different scenes. Each scene must have a beginning, middle, and end. Describe each scene with a few sentences or paragraphs.
+
+BACKSTORY: GPT3 error: This model's maximum context length is 4097 tokens, however you requested 5848 tokens (2848 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+
+PLOT BEAT: 18.These orbs allow Wilder to see into the past, present, and future. 
+
+DIFFERENT SCENES:
+
+==========
+
+1. Wilder finds an orb in the forest and picks it up. 
+2. Wilder looks into the orb and sees a vision of the future. 
+3. Wilder looks into the orb and sees a vision of the past. 
+4. Wilder looks into the orb and sees a vision of the present. 
+5. Wilder puts the orb back down and continues on his journey.
