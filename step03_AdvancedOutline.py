@@ -31,7 +31,7 @@ def open_json(filepath):
 openai.api_key = open_file('openaiapikey.txt')
 
 
-def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=2000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):
+def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=2000, freq_pen=0.5, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):
     max_retry = 5
     retry = 0
     prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()  # force it to fix any unicode errors
@@ -116,24 +116,29 @@ def flesh_out_scenes(story):
     plot_elements = story['PLOT'].replace('\n\n','\n').splitlines()
     scenes = list()
     summary = 'Beginning of story.'
+    count = 1
     idx = 1
     for plot in plot_elements:
+        print('\n\n',count,'of',len(plot_elements))
+        count = count + 1
         plot = re.sub('\d+:', '', plot).strip()  # clean up any numbered lists
+        print('\n\nPLOT BEAT:', plot)
         prompt = open_file('prompt_plot_scene.txt').replace('<<SUMMARY>>', summary).replace('<<PLOT>>', plot)
-        new_scenes = gpt3_completion(prompt, temp=0.75, engine='davinci', tokens=1000, stop=['PLOT', 'SUMMARY', 'CHAPTER', '6'])
+        new_scenes = gpt3_completion(prompt, temp=0.5, engine='davinci', tokens=1000, stop=['STORY', 'Chapter', 'CHAPTER', '6'])
         new_scenes = new_scenes.replace('NEXT','').replace('SCENE','').replace(':','').strip()  # remove SCENE tags
         new_scenes = re.sub('\d+','', new_scenes)  # remove scene numbers
-        new_scenes = new_scenes.replace('\n\n','\n')  #  remove duplicate lines
-        print('\n\nSCENES:', new_scenes)
+        new_scenes = re.sub('\n+','\n', new_scenes)  #  remove duplicate lines
         new_scenes = new_scenes.splitlines()  # split into list
         text = ''
         for i in new_scenes:
             i = i.strip()
-            scenes.append({'ID': idx, 'SCENE': i})
+            info = {'ID': idx, 'SCENE': i}  # it might be beneficial to have a "long version" and "short version" of each scene, for recursive summarization
+            print(info)
+            scenes.append(info)
             idx = idx + 1
             text = '%s %s' % (text, i)
         prompt = open_file('prompt_summary.txt').replace('<<STORY>>', '%s %s' % (summary, text))
-        summary = gpt3_completion(prompt).replace('\s+',' ')
+        summary = gpt3_completion(prompt, temp=0.5).replace('\s+',' ')
         print('\n\nSUMMARY:', summary)
     pprint(scenes)
     return scenes

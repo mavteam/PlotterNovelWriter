@@ -1,0 +1,509 @@
+{
+ "CHARACTERS": "1. Captain J.T. Wilder: The story's protagonist. He is the captain of the starship USS Ernest Rutherford. He is a brave and brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them.\n\n2. First Mate Kevin Jones: Wilder's right-hand man. He is a level-headed and practical man. He is always the voice of reason. He is loyal to Wilder and he will follow him into battle.\n\n3. Ensign Susan smith: The ship's communications officer. She is a bright and bubbly person. She is always upbeat and positive. She is known for her cheerful attitude.\n\n4. Dr. Jake Riley: The ship's medical officer. He is a serious and serious-minded man. He is always the voice of reason. He is known for his calm and collected demeanor.\n\n5. Chief Engineer John Garcia: The ship's chief engineer. He is a hard-working and practical man. He is always the voice of reason. He is known for his no-nonsense attitude.\n\n6. The aliens: A race of unknown creatures that attack Wilder's ship. They are vicious and brutal. They are known for their ferocity.",
+ "PLOT": "1.Captain J.T. Wilder of the starship USS Ernest Rutherford is on a five-year mission to explore deep space. \n2.It is a time of great excitement and adventure for the crew as they travel to distant galaxies and make new discoveries. \n3.However, on their latest mission, things take a turn for the worse. \n4.As they enter an unknown region of space, the ship is attacked by a horde of aliens. \n5.The creatures are unlike anything they have ever seen before and they are quickly overrun. \n6.During the course of the battle, Wilder is wounded and taken prisoner by the aliens. \n7.He is taken to their home world, where he is experimented on and subjected to unthinkable torture. \n8.As he suffers at the hands of his captors, Wilder's mind starts to unravel. \n9.He begins to question who he is and what his purpose is. \n10.He wonders if he will ever escape and return to his ship and crew. \n11.Wilder's captors continue to torture and experiment on him, but he does not break. \n12.He remains stubbornly resistant to their attempts to break him. \n13.As he suffers, Wilder starts to have strange visions. \n14.He sees his ship and crew, but they are in different places and different times. \n15.He sees them fighting and dying, but he does not know if they are real or if they are just products of his imagination. \n16.Wilder's captors become frustrated with him and decide to subject him to a final, brutal experiment. \n17.They remove his eyes and insert two strange orbs in their place. \n18.These orbs allow Wilder to see into the past, present, and future. \n19.He sees all the different paths his life could have taken and all the different ways his ship and crew could have died. \n20.He also sees a way to escape. \n21.Wilder finally breaks free from his captors and makes his way back to his ship. \n22.He is driven by a single purpose: to find and rescue his crew. \n23.He knows it will not be easy, but he is willing to do whatever it takes. \n24.He is a changed man, but he is still the same strong and determined leader his crew knows and loves. \n25.He will stop at nothing to save them and he will not rest until they are all safe.",
+ "SCENES": [
+  {
+   "ID": 1,
+   "SCENE": "The ship is damaged and Captain Wilder is forced to land on an unknown planet."
+  },
+  {
+   "ID": 2,
+   "SCENE": "Captain Wilder and his crew encounter a tribe of primitive aliens."
+  },
+  {
+   "ID": 3,
+   "SCENE": "The captain learns the aliens are at war with another tribe."
+  },
+  {
+   "ID": 4,
+   "SCENE": "The captain becomes involved in the war and helps the aliens win."
+  },
+  {
+   "ID": 5,
+   "SCENE": "The captain discovers a hidden chamber in the alien city."
+  },
+  {
+   "ID": 6,
+   "SCENE": "The crew is exploring a new planet when they are attacked by a tribe of primitive aliens."
+  },
+  {
+   "ID": 7,
+   "SCENE": "The captain helps the aliens win a war against another tribe and discovers a hidden chamber in the alien city."
+  },
+  {
+   "ID": 8,
+   "SCENE": "The crew is preparing to leave when a large spaceship lands on the planet. The crew meets the ship’s captain and learns that he has been tracking them for years."
+  },
+  {
+   "ID": 9,
+   "SCENE": "The captain tells the crew that they have been forbidden to explore because it interferes with his plans for galactic conquest. He orders them to land their ship at his base and join his army."
+  },
+  {
+   "ID": 10,
+   "SCENE": "A member of the crew tries to escape, but the captain’s soldiers capture him before he can get away."
+  },
+  {
+   "ID": 11,
+   "SCENE": "The captain is kidnapped and taken to a spaceship."
+  },
+  {
+   "ID": 12,
+   "SCENE": "The crew searches for their captain."
+  },
+  {
+   "ID": 13,
+   "SCENE": "The crew finds the captain locked in a cell."
+  },
+  {
+   "ID": 14,
+   "SCENE": "The crew fights off the alien guards and escapes with their captain."
+  },
+  {
+   "ID": 15,
+   "SCENE": "The captain and crew of the damaged ship are flying through space."
+  },
+  {
+   "ID": 16,
+   "SCENE": "The captain is flying the ship and his crewmembers are in the main cabin. They are discussing their options."
+  },
+  {
+   "ID": 17,
+   "SCENE": "The captain is in the control room and one of his crew members is in the main cabin. They both hear an alarm sound and see a red light flashing on a control panel."
+  },
+  {
+   "ID": 18,
+   "SCENE": "The captain has gone to a side room to check on something. One of his crew members is flying the ship. He sees a light on another control panel flashing red, then green, then red again. He turns to look at it but doesn't see anything wrong with it. He hears a loud noise from behind him and turns around just in time to see another light flashing red, green, red again...then it goes out completely!"
+  },
+  {
+   "ID": 19,
+   "SCENE": "The crew sees the creatures and realizes they are not a threat."
+  },
+  {
+   "ID": 20,
+   "SCENE": "The captain talks to the creatures and finds out they are friendly."
+  },
+  {
+   "ID": 21,
+   "SCENE": "The captain tells the crew to stand guard while he talks to the creatures. He goes off with them into the forest."
+  },
+  {
+   "ID": 22,
+   "SCENE": "A member of the crew sees something and becomes paranoid. He fires on one of the creatures and kills it. The other creatures attack, killing several crew members before they can escape back to their ship."
+  },
+  {
+   "ID": 23,
+   "SCENE": "The crew searches the underground chamber and finds a large, round object. It is covered with strange markings."
+  },
+  {
+   "ID": 24,
+   "SCENE": "The captain decides to take the object back to the ship. He orders several crew members to return to the ship and prepare for takeoff. He orders the rest of his crew to stay behind and guard the ship."
+  },
+  {
+   "ID": 25,
+   "SCENE": "The aliens attack while the crew is still on planet. Some of them are killed before they can get inside their ship, but they manage to get inside and take off."
+  },
+  {
+   "ID": 26,
+   "SCENE": "The aliens follow them into space, but they are unable to keep up with their damaged ship. They are forced to return home without their captain or his prisoner, Wilder."
+  },
+  {
+   "ID": 27,
+   "SCENE": "The crew of the damaged ship returns to the planet. They find the alien city in ruins and their captain missing. They split up and search for clues as to what happened."
+  },
+  {
+   "ID": 28,
+   "SCENE": "The aliens attack the ship while it is still on planet. The crew manages to fight off the attack and escape into space."
+  },
+  {
+   "ID": 29,
+   "SCENE": "The aliens follow them into space, but they are unable to keep up with their damaged ship. They are forced to return home without their captain or his prisoner, Wilder."
+  },
+  {
+   "ID": 30,
+   "SCENE": ""
+  },
+  {
+   "ID": 31,
+   "SCENE": "STORY UP TO THIS POINT A starship captain is captured by an alien race and taken to their home world, where he is experimented on and subjected to unthinkable torture. He escapes with a female prisoner, who helps him find a way back to Earth. He returns home with a warning about the aliens' intentions toward Earth."
+  },
+  {
+   "ID": 32,
+   "SCENE": ""
+  },
+  {
+   "ID": 33,
+   "SCENE": "PLAN THE"
+  },
+  {
+   "ID": 34,
+   "SCENE": "Wilder is locked in a dark cell."
+  },
+  {
+   "ID": 35,
+   "SCENE": "The aliens force Wilder to play a game of chance."
+  },
+  {
+   "ID": 36,
+   "SCENE": "Wilder is tortured by the aliens."
+  },
+  {
+   "ID": 37,
+   "SCENE": "The aliens force Wilder to play another game of chance."
+  },
+  {
+   "ID": 38,
+   "SCENE": "The aliens ask Wilder questions about his race and his planet. They also ask him questions about the human race and their planet, Earth. They want to know if they can conquer Earth, but they are unable to understand or believe anything he tells them. They are especially interested in the fact that humans have only one gender and do not reproduce sexually. They want to know why humans have no more than two genders when other species have more than two genders, but they are unable to understand or believe anything he tells them about it either. They do not believe that humans only have one gender because they look like men and women, and they do not believe that humans only have one gender because men and women can produce offspring together even though they do not reproduce sexually with each other either because it does not make sense for a species to reproduce sexually with others of its own species when other species can reproduce without needing anyone else of their own species at all. One alien asks him why humans need such large brains when all they do is think silly thoughts while another alien asks him why humans need such small bodies when all they do is eat food while another alien asks him why humans need such small mouths when all they do is eat food while another alien asks him why humans need such large noses when all they do is breathe air while another alien asks him why humans need such large ears when all they do is hear sounds while another alien asks him why humans need such large eyes when all they do is see things while another alien asks him why humans need such small genitals when all they do is urinate while another alien asks him how he knows so much about human anatomy since he has never seen a human before since he has no idea what a human looks like since he has never seen a human before since his people have only one gender so how could he know what a human looks like since his people have only one gender so how could he know what a human looks like since his people have only one gender so how could he know what a human looks like as long as it does not make sense for them to reproduce sexually with each other either because it does not make sense for them to be able to produce offspring together even though she does not want anyone else of her own species at all as long as it does not make sense for them to reproduce sexually with each other either because it makes no sense for her to be able to produce offspring together even though she does not want anyone else of her own species at all as long as it does not make sense for them to reproduce sexually with each other either because it makes no sense for her to be able to produce offspring together even though she does not want anyone else of her own species at all as long as it does not make sense for them to reproduce sexually with each other either because it makes no sense for her mate's mate's mate's mate's son's son's son's son's son's son's daughter-in-law's daughter-in-law's daughter-in-law's daughter-in-law's daughter-in-law or any of his sons' sons' sons' sons' sons' daughters or any of their daughters' daughters' daughters' daughters' daughters or any of their grandchildrens grandchildrens grandchildrens grandchildrens grandchildrens or any of their great great great great great great great granddaughters granddaughters granddaughters granddaughters granddaughters or any of their grandsons grandsons grandsons grandsons grandsons or any of their great great great great great great grandchildrens grandchildrens grandchildrens grandchildrens grandchildrens ever seen a single man before? He says that some members of the crew are still alive on this planet, but the aliens will never find them no matter how hard they look because there are many places on this planet where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where men cannot go where man can't get man can't get man can't get man can't get man can't get man can't get man can't get man can't get man can't get man can't get man can't get there there there there there there there there there anyway anyway anyway anyway anyway anyway anyway anyway anyway and if you did find some surviving crew members you would kill them too just like you killed my friends just like you killed my friends just like you killed my friends just like you killed my friends just like you killed my friends just like you killed my friends just like you killed my friends"
+  },
+  {
+   "ID": 39,
+   "SCENE": "Wilder is locked in a cell on the alien spaceship. He begins to question who he is and what his purpose is."
+  },
+  {
+   "ID": 40,
+   "SCENE": "The crew lands on an unknown planet and explores the surrounding area. They discover a strange, round object. The captain decides to take the object back to their ship."
+  },
+  {
+   "ID": 41,
+   "SCENE": "The crew returns to their ship with the strange object but are attacked by aliens while still on planet. They manage to get inside their ship and take off, but they are followed into space by another spaceship. The aliens fire at them and cause major damage to their ship's engine."
+  },
+  {
+   "ID": 42,
+   "SCENE": "The crew discovers that they are being followed by an alien spaceship and realize they will have to fight if they want to survive. They have a plan, but it will require split-second timing if they want any chance of success."
+  },
+  {
+   "ID": 43,
+   "SCENE": "The captain gives the crew instructions for attacking the alien spaceship while he attempts to repair their damaged engine. He tells them that he will try to make repairs as quickly as possible so they can escape, but it may take awhile because he has no tools or parts for repairs. He tells them that if he doesn't make it back in time, they must attack without him and try not to get themselves killed in the process. If all else fails, then they should return home without him and tell everyone what happened here today—and why!"
+  },
+  {
+   "ID": 44,
+   "SCENE": "Wilder is in a cell. He wonders if he will ever escape and return to his ship and crew."
+  },
+  {
+   "ID": 45,
+   "SCENE": "The captain's crew searches the underground chamber. They find a large, round object."
+  },
+  {
+   "ID": 46,
+   "SCENE": "The captain decides to take the object back to the ship."
+  },
+  {
+   "ID": 47,
+   "SCENE": "The aliens attack while the crew is still on planet, but they are able to get inside their ship and take off."
+  },
+  {
+   "ID": 48,
+   "SCENE": "The aliens follow them into space, but they are unable to keep up with their damaged ship. They are forced to return home without their captain or his prisoner, Wilder."
+  },
+  {
+   "ID": 49,
+   "SCENE": "Wilder is taken to a dark room and strapped down to a table. He is injected with a drug that causes him to hallucinate."
+  },
+  {
+   "ID": 50,
+   "SCENE": "The aliens strap Wilder into an electric chair and shock him repeatedly."
+  },
+  {
+   "ID": 51,
+   "SCENE": "Wilder is placed in a sensory deprivation chamber, where he can't see, hear, or feel anything."
+  },
+  {
+   "ID": 52,
+   "SCENE": "Wilder is put in a box with two holes in it, one for his head and one for his arms. He is forced to stay in the box for days at a time."
+  },
+  {
+   "ID": 53,
+   "SCENE": "Wilder is placed in an isolation chamber for several weeks. The door is locked from the outside and he has no way of knowing whether it's day or night outside the chamber. He doesn't know if anyone else has been put there with him or if he's alone. He begins to believe that he will never leave the chamber alive and begins talking to himself just so he won't go crazy from being alone so long."
+  },
+  {
+   "ID": 54,
+   "SCENE": "The crew is back on board their ship. After the aliens left, they returned to the underground chamber and found an alien spaceship. They took it and flew it back to their ship. They are now preparing to leave the planet for good. The crew is trying to figure out how to get Wilder out of his box without being detected by the aliens."
+  },
+  {
+   "ID": 55,
+   "SCENE": "The spaceship is damaged and they need a part that they don't have on board. They decide to fly back to the alien city and steal it from there. They fly back into the city, but are attacked by a large number of aliens before they can land. The crew fights them off, but not before one of them is shot in the arm by an alien arrow."
+  },
+  {
+   "ID": 56,
+   "SCENE": "The captain decides that Wilder isn't worth saving anymore, so he tells everyone else that he's dead and orders them to leave him behind when they take off from the planet again. However, one of his crew members refuses to leave his captain behind and decides that he's going after him whether or not anyone else wants him too. He sneaks away from camp while everyone else is asleep at night and heads toward the alien city on foot in order to rescue Wilder himself if no one else will help him do it first."
+  },
+  {
+   "ID": 57,
+   "SCENE": "When he gets near the city, he sees a group of aliens dragging Wilder out of his cell and taking him toward a small building nearby that looks like an execution chamber. He sneaks into the building while they're gone and finds Wilder strapped down inside an electric chair with wires attached to his head, chest, arms, legs, fingers, toes, ears, nose...basically everywhere except for his privates (which is probably why he was still alive). The wires are connected up to some sort of machine with a lever on it that looks like something you'd see in a torture chamber in medieval Europe or something like that (you know what I mean). It looks like someone designed it specifically for torturing people with electricity or something like that (or maybe just killing them). He frees Wilder from his bonds and helps him escape from there before he can be tortured any further. He takes him back outside where everyone else is waiting for them (but not before making sure that no one saw them leaving together) where they explain everything about what happened during their search for their captain as well as what happened when they got back inside their ship after rescuing Wilder again (the part about stealing an alien spaceship was edited out since no one was supposed to know about it anyway). Then they talk about how they're going after their captain again since no one wants him dead anymore (they may have been planning on leaving him behind earlier since he wasn't worth saving anymore [according to their captain] but changed their minds later when someone decided that he still might be worth saving after all). Then one of them suggests searching all over again for another spaceship so that they can go save Captain Jones themselves this time instead of waiting around here for someone else who might never show up anyway (which means stealing another alien spaceship which means sneaking into another dark room where there's probably more than just two guards this time [and lots more arrows]). Then everyone agrees with this idea except for Captain Jones himself who decides not only not let anyone go save him this time but also not even let anyone try because if anyone does try then then all those people will get killed too which means more work for everyone else who has already had enough work already dealing with these aliens so far (but also less work for himself if no one tries because then we'll all just stay here forever until we die naturally instead of having our heads split open by arrows or whatever happens next [if we don't die naturally first]). So then everybody goes home without doing anything except getting caught by those aliens again anyway since none of us did anything at all except talk about doing something which doesn't count as doing anything at all anyway even if we did do it because I'm writing this story right now which means I'm doing something right now even though I'm just sitting here talking instead of actually doing anything right now because I'm writing this story instead which means...well you get my point.)"
+  },
+  {
+   "ID": 58,
+   "SCENE": "The crew is preparing to leave the planet, but they have a problem."
+  },
+  {
+   "ID": 59,
+   "SCENE": "The captain is suffering from hallucinations."
+  },
+  {
+   "ID": 60,
+   "SCENE": "The captain’s condition deteriorates."
+  },
+  {
+   "ID": 61,
+   "SCENE": "Wilder has a vision of the alien city in flames."
+  },
+  {
+   "ID": 62,
+   "SCENE": "Wilder tells the others about his vision."
+  },
+  {
+   "ID": 63,
+   "SCENE": "Wilder sees his ship and crew on the alien planet. They are in the midst of a battle."
+  },
+  {
+   "ID": 64,
+   "SCENE": "He sees his ship and crew on the alien planet, but they are in a different place. He sees his captain, but he is younger, less experienced."
+  },
+  {
+   "ID": 65,
+   "SCENE": "He sees his ship and crew on the alien planet, but they are in a different time period. They are older and have been on the planet for several years. The captain is more experienced and has learned to communicate with the aliens. He is able to defeat their enemies with their help. The captain is still young, but he has become more experienced than he was when he first arrived on the planet."
+  },
+  {
+   "ID": 66,
+   "SCENE": "Wilder sees his ship and crew on their own spaceship again. The captain is older and wiser than before. Wilder has a vision of him standing in front of an alien city that is burning down around him."
+  },
+  {
+   "ID": 67,
+   "SCENE": ""
+  },
+  {
+   "ID": 68,
+   "SCENE": "ACT"
+  },
+  {
+   "ID": 69,
+   "SCENE": "The captain is still in the alien spaceship, but he is now on the bridge. He sees his crew fighting and dying on the planet below. He does not know if it is real or a product of his imagination."
+  },
+  {
+   "ID": 70,
+   "SCENE": "The captain stares at a video screen showing his ship, which is being attacked by aliens."
+  },
+  {
+   "ID": 71,
+   "SCENE": "The captain sees an alien spaceship approaching their ship. He wonders if they are friend or foe."
+  },
+  {
+   "ID": 72,
+   "SCENE": "The captain sees an alien spaceship approach his ship and begin to dock with it. He wonders if they are going to rescue him or kill him."
+  },
+  {
+   "ID": 73,
+   "SCENE": "Wilder is taken to the alien spaceship and strapped into a chair. The aliens strap his arms and legs to the chair. They turn on a machine that will subject him to painful, bright lights. Wilder's eyes are taped open so he can't close them. The lights begin to flash on and off. Wilder screams in pain as the aliens watch from behind glass."
+  },
+  {
+   "ID": 74,
+   "SCENE": "The aliens observe Wilder's reaction to the lights for a moment and then leave the room. They turn off the lights and leave him alone for a few moments with his eyes still taped open, watching him writhe in pain. Then they come back in and turn on the lights again, but this time they increase their intensity until they are almost unbearable. Again, Wilder screams in pain as they watch behind glass."
+  },
+  {
+   "ID": 75,
+   "SCENE": "The aliens increase the intensity of the light even more until it becomes unbearable again. This time, Wilder faints from the pain before they have a chance to observe his reaction any further. He is unconscious for several hours while they experiment with other methods of torture."
+  },
+  {
+   "ID": 76,
+   "SCENE": "When he wakes up, he is still strapped into the chair with his eyes taped open and is surrounded by several of these strange creatures that look like giant insects or centipedes or something else completely alien-looking that he has never seen before in his life! He can't believe what he is seeing! One of them walks over toward him with a strange-looking device that looks like an electric cattle prod or something along those lines... It has two prongs sticking out from it... It looks like it might be used for something else besides torture... but what? What could it possibly be used for? It looks like some kind of weapon or torture device... or both! As it approaches closer and closer toward him, he begins to realize that this thing might be used as some kind of sexual device! He begins to panic! He tries desperately to get free from his bonds but there's no way! They're too tight! He panics even more when he realizes that this creature may have been sent here by its leader (the alien queen) as a gift! These creatures are known to exchange gifts with each other during special ceremonies... And what better gift could she give her new husband than one of these creatures? (She already gave him one as part of their marriage ceremony.) What if she wants another one? He tries desperately not to think about it but there's no escaping reality... This thing may be coming at any moment now... What will happen if she comes back now? What if she thinks that he likes this thing?! She'll think that he really wants this thing! She'll probably want another one so she can give them both together as her wedding present!!! What if...?!!! No!!! NO!!! NO!!! NO!!! NO!!! NOOOOOOO!!!!!!!!! AAAAHHHHHHHHH!!!!!! OH GOD!!!! OH GOD!!!! OH GOD!!!! OH GOD!!!! OH GOD!!!! OH GOD!!!!! AAAAHHHHHHH!!!!! NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!! AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  },
+  {
+   "ID": 77,
+   "SCENE": ""
+  },
+  {
+   "ID": 78,
+   "SCENE": ""
+  },
+  {
+   "ID": 79,
+   "SCENE": "Wilder wakes up screaming at night in bed while sleeping next to his wife who is sound asleep beside him snoring away peacefully without even realizing what just happened..."
+  },
+  {
+   "ID": 80,
+   "SCENE": ""
+  },
+  {
+   "ID": 81,
+   "SCENE": ""
+  },
+  {
+   "ID": 82,
+   "SCENE": "STORY SO FAR A human crew discovers an alien planet that is being attacked by another tribe. They help the aliens win the war, discover a hidden chamber, and are eventually able to escape back to their own ship where their captain becomes ill from hallucinations caused by exposure from an alien plant called \"sweet grass\". His crew takes care of him while searching for food on another planet nearby where they find an alien spaceship inhabited by giant insects called \"mantis\" who attack them but are defeated eventually when they are able to use weapons left behind by another tribe who had previously invaded their planet centuries ago when humans first arrived here thousands of years ago and began colonizing our solar system thousands of years ago after escaping Earth following an apocalypse caused by nuclear war which destroyed most life on Earth leaving only small pockets scattered around our solar system including Mars where humans now live having built huge underground cities beneath its surface after gaining control over Mars' atmosphere which had been badly damaged following an ancient nuclear war between two rival Martian tribes which had destroyed much life on Mars leaving only small pockets scattered around its surface including mankind who was forced into hiding underground after gaining control over Mars' atmosphere which had been badly damaged following an ancient nuclear war between two rival Martian tribes which had destroyed much life on Mars leaving only small pockets scattered around its surface including mankind who was forced into hiding underground after gaining control over Mars' atmosphere which had been badly damaged following an ancient nuclear war between two rival Martian tribes which had destroyed much life on Mars leaving only small pockets scattered around its surface including mankind who was forced into hiding underground after gaining control over"
+  },
+  {
+   "ID": 83,
+   "SCENE": "The aliens place the captain on a table and prepare to remove his eyes."
+  },
+  {
+   "ID": 84,
+   "SCENE": "The aliens proceed to remove his eyes."
+  },
+  {
+   "ID": 85,
+   "SCENE": "The aliens insert two strange orbs in their place."
+  },
+  {
+   "ID": 86,
+   "SCENE": "The captain awakens and realizes he can see through the eyes of the aliens. He freaks out and tries to escape but is restrained by the aliens."
+  },
+  {
+   "ID": 87,
+   "SCENE": "Wilder is restrained to the table by the aliens. He is able to see through their eyes. The captain sees his crewmates being attacked by the mantis but he is unable to warn them. He sees a mantis approaching his crewmates and he screams for them to run. The mantis attacks his crewmates and kills them."
+  },
+  {
+   "ID": 88,
+   "SCENE": "Wilder is restrained on the table. He sees his crewmates running away from the mantis and hiding behind a rock. They are trapped in a cave by another alien tribe called \"Sharks\". The Sharks attack them and kill them all except for Wilder who is still restrained on the table by the aliens."
+  },
+  {
+   "ID": 89,
+   "SCENE": "Wilder is restrained on the table by the aliens while they prepare to remove his eyes so they can replace them with their orbs. They proceed to remove one of his eyes but stop when they hear a noise outside their ship. They leave Wilder alone on the table as they go outside to investigate what's making all that noise outside their ship. A loud noise erupts from outside, causing an explosion in their ship and killing all of them except for Wilder who is still restrained on the table with one eye missing and blood everywhere around him while he watches everything burn around him as it slowly dies out into darkness..."
+  },
+  {
+   "ID": 90,
+   "SCENE": "Wilder is restrained to the table by the aliens. He is able to see through their eyes. He sees his crewmates being attacked by the mantis but he is unable to warn them. He sees a mantis approaching his crewmates and he screams for them to run. The mantis attacks his crewmates and kills them."
+  },
+  {
+   "ID": 91,
+   "SCENE": "Wilder is restrained on the table. He sees his crewmates running away from the mantis and hiding behind a rock. They are trapped in a cave by another alien tribe called \"Sharks\". The Sharks attack them and kill them all except for Wilder who is still restrained on the table by the aliens while they prepare to remove his eyes so they can replace them with their orbs but they are killed when their ship explodes before they can finish removing Wilder's second eye."
+  },
+  {
+   "ID": 92,
+   "SCENE": "The captain awakens and realizes he can see through the eyes of the aliens. He freaks out and tries to escape but is restrained by the aliens."
+  },
+  {
+   "ID": 93,
+   "SCENE": "The captain sees all the different paths his life could have taken and all the different ways his ship and crew could have died."
+  },
+  {
+   "ID": 94,
+   "SCENE": "The captain sees himself in a strange place with no memory of how he got there or where he came from, just that he was somehow transported there against his will. There are two paths leading away from him, one path leading back into darkness, one path leads into light, but neither path looks inviting or familiar to him so he decides not to take either path but instead wait until someone comes along who knows more about where he is than him so that person can help him find out what happened to him, where did he come from, why was he brought here against his will? Then suddenly a giant creature appears out of nowhere before him and tells him that he has been brought here because it was time for him to die after having lived a long life full of joys, sorrows, victories, defeats, love lost and love found then it asks if it should kill him now or allow him one last request before it kills him? Then it asks if it should kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed? Or should it kill everyone on board Wolfershteyn’s shpaeck exept foor Wllderhshteyn whhoossewlldbe eeblleeted tooo oonnsheerrttee eennttthhee rreeqquuueesssttss foorrr hhhiisssssddeeffoorttt wwhheennn nneeeyyeewwwwwiirrrrdddiiinnnggghhh ccccceeee eeeeennnnnnntttsssssiiiitttuuuuuurrree tttthhhhheeeee ppppaadddddiiiioooo oooff oofff tthhee bbbooooodddddd bbyyyyowwwwiittttt ttoo oonnneeeyyy uunnnddeerrr sseeecceeenntt iiiinnggghhh hhhhiisssss ddeeffoorttt wwhheennn nneeeyyeewwwwwiirrrrdddiiinnnggghhh ccccceeee eeeeennnnnnntttsssssiiiitttuuuuuurrree tttthhhhheeeee ppppaadddddiiiioooo oooff oofff tthhee bbbooooodddddd bbyyyyowwwwiittttt ttoo oonnneeeyyy uunnnddeerrr sseeecceeenntt iiiinnggghhh hhhhiisssss ddeeffoorttt"
+  },
+  {
+   "ID": 95,
+   "SCENE": "The alien ship is destroyed and Wilder's ship is on the run."
+  },
+  {
+   "ID": 96,
+   "SCENE": "The crew realizes their captain has been abducted and they are still being chased."
+  },
+  {
+   "ID": 97,
+   "SCENE": "The crew realizes they will be killed by the aliens if they don't destroy the ship."
+  },
+  {
+   "ID": 98,
+   "SCENE": "The crew realizes they are going to be killed by their captain if they don't destroy the ship."
+  },
+  {
+   "ID": 99,
+   "SCENE": "The crew realizes that it is also possible to escape from their captain."
+  },
+  {
+   "ID": 100,
+   "SCENE": "Wilder wakes up in the strange place and realizes he is being held prisoner. He breaks free and returns to his ship where he confronts his crew."
+  },
+  {
+   "ID": 101,
+   "SCENE": "Wilder confronts his crew, who are hiding out in the forest. They tell him they have been waiting for him to return before deciding what to do next."
+  },
+  {
+   "ID": 102,
+   "SCENE": "The crew returns to their ship and comes up with a plan to escape from their captain."
+  },
+  {
+   "ID": 103,
+   "SCENE": "Wilder's crew decides they will not destroy their captain, but they will leave him behind on an alien planet and return home without him."
+  },
+  {
+   "ID": 104,
+   "SCENE": "The crew decides they will not destroy their captain, but they will leave him behind on an alien planet and return home without him. They realize the aliens are still chasing them and they must destroy their own ship or be killed by the aliens or by their captain."
+  },
+  {
+   "ID": 105,
+   "SCENE": "The captain is transported to a strange place with no memory of how he got there. A giant creature tells him it is time for him to die and asks if it should kill everyone on board Wilder's ship except for Wilder who would then be allowed one last request before being killed?"
+  },
+  {
+   "ID": 106,
+   "SCENE": "The crew returns to their ship and comes up with a plan to escape from their captain. They realize the aliens are still chasing them and they must destroy their own ship or be killed by the aliens or by their captain."
+  },
+  {
+   "ID": 107,
+   "SCENE": "The crew decides they will not destroy their captain, but they will leave him behind on an alien planet and return home without him. They realize the aliens are still chasing them and they must destroy their own ship or be killed by the aliens or by their captain."
+  },
+  {
+   "ID": 108,
+   "SCENE": "The crew realizes Wilder is being held prisoner. He breaks free and returns to his ship where he confronts his crew."
+  },
+  {
+   "ID": 109,
+   "SCENE": "The crew returns to their ship and comes up with a plan to escape from their captain. They realize the aliens are still chasing them and they must destroy their own ship or be killed by the aliens or by their captain."
+  },
+  {
+   "ID": 110,
+   "SCENE": "The ship is damaged. The crew is in danger."
+  },
+  {
+   "ID": 111,
+   "SCENE": "The crew is hiding from the aliens. They are preparing to fight back."
+  },
+  {
+   "ID": 112,
+   "SCENE": "The captain has been captured and tortured by the aliens. He has been blinded and he is hallucinating. He sees his dead crewmates and he screams for them to run. They cannot hear him, but they do run in fear of the aliens chasing them. They are all killed by the aliens before they can escape into a cave and hide from them."
+  },
+  {
+   "ID": 113,
+   "SCENE": "The alien ship explodes, killing all the aliens on board, including those who were torturing Wilder's crewmates in their own bodies while they were alive on their own ship."
+  },
+  {
+   "ID": 114,
+   "SCENE": "The captain wakes up in a strange place being held prisoner by a giant creature who tells him it is time for him to die. He tries to convince the creature he does not want to die yet, but he cannot speak its language and it does not understand what he is saying so it continues to taunt Wilder about his impending death until Wilder breaks free from its grasp and returns to his ship where he confronts his crew about what happened to his crewmates on the alien planet where they left him behind when they returned home without him after destroying their own ship rather than let the aliens capture their spaceship too so that they could return home alive instead of dead as a result of being killed by Wilder on board their own ship after returning home without him as well as having been killed by Wilder's insane hallucinations while still on board their own spaceship before returning home with no one left alive except for himself because everyone else was killed by either one or both of two different alien species (the first alien species being those who tortured Wilder's crewmates after capturing them as prisoners of war during an interplanetary war which was fought between two different alien species with each alien species being made up of three different types of sentient beings - one type being very large, another type being quite small, and another type being medium sized - while the second alien species was made up entirely of intelligent beings who were much larger than humans with only one eye apiece that were capable of seeing through any number of other eyes simultaneously - one eye at a time - when those eyes belonged to members of any other sentient species)."
+  },
+  {
+   "ID": 115,
+   "SCENE": "The crew is gathered in the mess hall for a meeting. The captain is still weak and frail, but he has been given a clean bill of health by the ship's doctor. He tells them that their next mission will be to help an alien planet win a war against their enemy, the Kretons. He explains that they are an aggressive species who want to rule the entire galaxy. The Kretons have been attacking planets and forcing them to join their empire. The aliens have no chance against the Kretons' superior weapons and technology, but they have developed a chemical weapon that will kill all of the Kreton soldiers on their planet without harming any of their own people. They need help transporting it to their planet so they can distribute it throughout their atmosphere before the Kretons invade."
+  },
+  {
+   "ID": 116,
+   "SCENE": "MISSION Help transport chemical weapons to an alien world so they can use it against invading forces from another planet."
+  },
+  {
+   "ID": 117,
+   "SCENE": ""
+  },
+  {
+   "ID": 118,
+   "SCENE": "The crew arrives at the alien world's space station and boards a small shuttle craft with three other ships from different planets that are also helping transport weapons to this world. They fly through space toward the planet below, but they are attacked by a fleet of Kreton warships in orbit around the planet. Their shuttle is hit with several laser blasts before they can escape into hyperspace and return fire at the attacking ships with their own cannons."
+  },
+  {
+   "ID": 119,
+   "SCENE": "The shuttle arrives safely at one of two landing pads on an enormous ship that serves as both a space station and military fortress for this world's defense forces. They are greeted by military leaders who thank them for helping them fight back against the Kretons' invasion plans for this world. They tell them that all of these ships are carrying enough chemicals to kill every living thing on this planet except for its native inhabitants, which means that it will take weeks or months before all of these chemicals spread throughout this world's atmosphere and reach lethal levels for humans, too. They tell them it will take several days before all of these chemicals can be transported down to ground level using giant airships because there isn't enough room in any one airship to carry everything needed for this job in one trip down to ground level, so many trips will have to be made over a period of several days or weeks depending on how fast each airship can travel between each landing site and its home port aboard this massive ship in orbit above this world's surface below."
+  },
+  {
+   "ID": 120,
+   "SCENE": "MISSION Help transport chemicals from space stations orbiting above ground level down onto ground level where they need to be distributed throughout an entire planet's atmosphere within several days or weeks depending on how fast each airship can travel between each landing site and its home port aboard this massive ship in orbit above this world's surface below"
+  },
+  {
+   "ID": 121,
+   "SCENE": "The human crew is on the ship and they are discussing whether or not they should go back to the planet. They decide to stay on the ship for a few days."
+  },
+  {
+   "ID": 122,
+   "SCENE": "The Kretons are coming to attack the ship."
+  },
+  {
+   "ID": 123,
+   "SCENE": "The Kretons attack the ship. They kill one of the humans and capture the others."
+  },
+  {
+   "ID": 124,
+   "SCENE": "The Kretons take them back to their planet and put them in jail. They interrogate them and try to get information from them about why they were on their planet. The humans refuse to talk and so they are tortured by having their arms cut off over and over again until they talk or die."
+  },
+  {
+   "ID": 125,
+   "SCENE": "The human leader is being tortured by having his arms cut off again and again, but he refuses to tell them anything. He tells his crewmates that he will stop at nothing to save them and he will not rest until they are all safe, even if it kills him. He tells them that they should not give up hope because he will escape somehow and save them all before it is too late, even if it kills him. His crewmates tell him that he needs to rest because he is exhausted from all of the torture, but he says that there is no time for rest because there is no telling when his torturers might start cutting off his legs next or something worse. He tells them that he will not give up hope! He says that if anyone else wants to give up hope, then they can do so now, but he will not give up hope! He says that if anyone else wants to die, then they can do so now, but he will never give up hope! His crewmates tell him that if anyone else dies then it won't be his fault because it won't be his fault if someone gives up hope; it will only be their own fault for giving up hope! But he says that if anyone else dies then it won't be because of him; it will only be because of themselves for giving up hope! His crewmates say that even though this whole thing has been hard on everyone, they are glad that at least one person has stayed strong through all of this torture who still has faith in himself and faith in others; who still believes in himself and others; who still believes in humanity; who still believes in humanity's ability to survive against any odds; who still believes in humanity's ability to overcome any obstacle; who still believes in humanity's ability to succeed against impossible odds; who still believes in himself as a human being with a soul made out of steel with a heart made out of iron with blood made out of fire with muscles made out of titanium with skin made out of diamond with bones made out of titanium with nerves made out of titanium with blood vessels made out of titanium with hair made out of steel with fingernails made out of titanium with sweat glands made out of diamond with eyesight sharper than an eagle's eye; whose eyesight can see through walls like Superman's x-ray vision; whose eyesight can see through solid objects like Superman's heat vision; whose eyesight can see through solid objects like Superman's microscopic vision; whose eyesight can see through solid objects like Superman's telescopic vision; whose eyesight can see through solid objects like Superman's microscopic vision from outer space; whose ears hear sounds far below normal human hearing range like bats' hearing range; whose ears hear sounds far above normal human hearing range like dolphins' hearing range; whose ears hear sounds far above normal human hearing range like bats' super-sonic hearing range (bats fly around at night making noises); whose ears hear sounds far below normal human hearing range like dolphins' super-sonic hearing range (dolphins swim around underwater making noises); whose ears hear sounds far above normal human hearing range like bats' ultrasonic hearing range (bats fly around at night making noises); whose ears hear sounds far below normal human hearing range like dolphins' ultrasonic hearing range (dolphins swim around underwater making noises); whose ears hear sounds far above normal human hearing range like bats' ultrasonic echolocation (bats fly around at night making noises); who has more strength than an elephant bull elephant bull elephant bull elephant bull elephant bull elephant bull elephant bull elephant bull elephant bull elephant bull elephant bull elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants bulls elephants cows cows cows cows cows cows cows cows cows cows cows cows cows cow cow cow cow cow cow cow cow cow cattle cattle cattle cattle cattle cattle cattle cattle cattle cattle cattle cattle cattle cattle buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes buffalo buffaloes waterbuffalo waterbuffalo waterbuffalo waterbuffalo waterbuffalo"
+  }
+ ],
+ "SETTING": "-a dark and foreboding alien world\n-a world full of strange and dangerous creatures\n-a world where the laws of physics are different\n-a world where time has no meaning\n-a world where mind-control is possible\n-a world where torture is commonplace\n-a world where technology is far beyond our own",
+ "SYNOPSIS": "Captain J.T. Wilder of the starship USS Ernest Rutherford is on a five-year mission to explore deep space. It is a time of great excitement and adventure for the crew as they travel to distant galaxies and make new discoveries. However, on their latest mission, things take a turn for the worse. As they enter an unknown region of space, the ship is attacked by a horde of aliens. The creatures are unlike anything they have ever seen before and they are quickly overrun. During the course of the battle, Wilder is wounded and taken prisoner by the aliens. He is taken to their home world, where he is experimented on and subjected to unthinkable torture. As he suffers at the hands of his captors, Wilder's mind starts to unravel. He begins to question who he is and what his purpose is. He wonders if he will ever escape and return to his ship and crew. Wilder's captors continue to torture and experiment on him, but he does not break. He remains stubbornly resistant to their attempts to break him. As he suffers, Wilder starts to have strange visions. He sees his ship and crew, but they are in different places and different times. He sees them fighting and dying, but he does not know if they are real or if they are just products of hisimagination. Wilder's captors become frustrated with him and decide to subject him to a final, brutal experiment. They remove his eyes and insert two strange orbs in their place. These orbs allow Wilder to see into the past, present, and future. He sees all the different paths his life could have taken and all the different ways his ship and crew could have died. He also sees a way to escape. Wilder finally breaks free from his captors and makes his way back to his ship. He is driven by a single purpose: to find and rescue his crew. He knows it will not be easy, but he is willing to do whatever it takes. He is a changed man, but he is still the same strong and determined leader his crew knows and loves. He will stop at nothing to save them and he will not rest until they are all safe.",
+ "THEME": "The universal truth in this story is that no matter how difficult things get, you should never give up hope. Things may seem hopeless, but there is always a way to persevere."
+}
