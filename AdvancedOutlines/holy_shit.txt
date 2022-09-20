@@ -1,0 +1,218 @@
+
+C:\PlotterNovelWriter>python step03_AdvancedOutline.py
+Working on scenes...
+
+
+SCENES: Captain Wilder and Ensign Jack O'Neil are on the bridge of the Ernest Rutherford. They are scanning the outer planets of the Alpha Centauri system. Ensign O'Neil is a new graduate from the academy. Captain Wilder is his mentor.
+  Captain Wilder and Ensign O'Neil have uncovered a wormhole. They are taking the Ernest Rutherford through what could be a shortcut to get to their next assignment. Instead, they run into a ship from a distant galaxy.
+  The alien ship has a different structure and origin, and has no idea that the crew of the Ernest Rutherford is friendly. The aliens shoot first, and ask questions later.
+  Captain Wilder and Ensign O'Neil try to reason with the aliens, but there is no common ground.
+  The aliens shoot the Ernest Rutherford's engines. The Ernest Rutherford crash-lands on a nearby planet. The crash leaves the Ernest Rutherford a total loss.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil discover a wormhole while scanning the outer planets of the Alpha Centauri system. They take the Ernest Rutherford through the wormhole, only to find themselves in the middle of a battle between an alien ship and a ship from a distant galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crash leaves the Ernest Rutherford a total loss.
+
+
+SCENES: Battle in the Alpha Centauri system.
+  Landing on the new planet.
+  The battle continues.
+  Capt. Wilder's plan to capture an alien ship.
+  Inside the alien ship.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil discover a wormhole while scanning the outer planets of the Alpha Centauri system. They take the Ernest Rutherford through the wormhole and find themselves in the middle of a battle between an alien ship and a ship from a distant galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crash leaves the Ernest Rutherford a total loss.
+
+
+SCENES: Captain Wilder, Ensign O'Neil, and the rest of the crew manage to get to the damaged ship and get it ready to leave.
+  Ensign O'Neil takes a shuttle to the alien ship and manages to open the hangar bay doors so that the Ernest Rutherford can fly out of the alien ship.
+  Back on the Ernest Rutherford, they realize they have plenty of power, but they were unable to repair the engines.
+  Ensign O'Neil takes a second shuttle and opens the hangar bay doors on the other side of the ship.
+  The Ernest Rutherford flies out of the alien ship and heads towards the wormhole.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They take the Ernest Rutherford through the wormhole and find themselves in the middle of a battle between an alien ship and a ship from a different galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew manages to get to the damaged ship and get it ready to leave. Ensign O'Neil takes a shuttle to the alien ship and opens the hangar bay doors so that the Ernest Rutherford can fly out. They head back towards the wormhole.
+
+
+SCENES: The aliens come from all directions, shattering the shields. The Ernest Rutherford is hit by a powerful blast that knocks the ship out of control.
+  The shields go down and the aliens attack the ship's hull with laser beams.
+  The aliens shoot the Ernest Rutherford's engines again and the ship crashes on a nearby planet.
+  With communications down, the ship's computer initiates a lockdown. The crew runs from section to section, sealing themselves in.
+  The aliens shoot the Ernest Rutherford's engines, breaking through the hull and setting the ship on fire.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They take the Ernest Rutherford through the wormhole and find themselves in the middle of a battle between an alien ship and a ship from a different galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew manages to get to the damaged ship and get it ready to leave. Ensign O'Neil takes a shuttle to the alien ship and opens the hangar bay doors so that the Ernest Rutherford can fly out. They head back towards the wormhole. The aliens come from all directions, shattering the shields. The Ernest Rutherford is hit by a powerful blast that knocks the ship out of control. The shields go down and the aliens attack the ship's hull with laser beams. The aliens shoot the Ernest Rutherford's engines again and the ship crashes on a nearby planet. With communications down, the ship's computer initiates a lockdown. The crew runs from section to section, sealing themselves in. The aliens shoot the Ernest Rutherford's engines, breaking through the hull and setting the ship on fire.
+
+
+SCENES: The creatures break into the ship and begin slaughtering the crew.
+  The crew finds a way to escape from the ship.
+  The crew is trapped in the Ernest Rutherford.
+  The crew figures out a way to defeat the alien creatures.
+  The crew escapes from the Ernest Rutherford.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They take the Ernest Rutherford through the wormhole and find themselves in the middle of a battle between an alien ship and a ship from a different galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew manages to get to the damaged ship and get it ready to leave. Ensign O'Neil takes a shuttle to the alien ship and opens the hangar bay doors so that the Ernest Rutherford can fly out. They head back towards the wormhole. The aliens come from all directions, shattering the shields. The Ernest Rutherford is hit by a powerful blast that knocks the ship out of control. The shields go down and the aliens attack the ship's hull with laser beams. The aliens shoot the Ernest Rutherford's engines again and the ship crashes on a nearby planet. With communications down, the ship's computer initiates a lockdown. The crew runs from section to section, sealing themselves in. The aliens shoot the Ernest Rutherford's engines, breaking through the hull and setting the ship on fire.  The creatures break into the ship and begin slaughtering the crew. The crew finds a way to escape from the ship. The crew is trapped in the Ernest Rutherford. The crew figures out a way to defeat the alien creatures. The crew escapes from the Ernest Rutherford.
+
+
+SCENES: Wilder is locked into a cell on the alien ship. He is unable to contact the Ernest Rutherford. The alien crew is celebrating the victory over their enemy.
+  After the alien ship lands on the planet, Wilder gets out of the cell and starts looking for an escape route. He looks for an escape route. He finds a door with a level- security code. He runs across an alien guard and fights him. He kills the alien and gets his laser rifle and laser pistol. He runs into the alien captain and kills him. Wilder is able to get to the hangar.
+  Wilder runs into several alien crew members, killing them all. He runs into an alien commander and fights him. The alien is killed. Wilder gets into the shuttle and leaves the hangar.
+  Wilder flies to the Ernest Rutherford. He lands the shuttle on a landing pad next to the Ernest Rutherford. He gets into the ship.
+  Wilder runs into an alien crew member. He kills the alien. He runs into an alien guard, who wounds Wilder with a laser pistol. Wilder kills the alien. He runs into an alien commander and fights him. The alien commander is killed. Wilder heads for engineering and gets it ready for blast-off. He gets into the Ernest Rutherford's shuttle and leaves the planet.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They take the Ernest Rutherford through the wormhole and find themselves in the middle of a battle between an alien ship and a ship from a different galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew manages to get to the damaged ship and get it ready to leave. Ensign O'Neil takes a shuttle to the alien ship and opens the hangar bay doors so that the Ernest Rutherford can fly out. They head back towards the wormhole. The aliens come from all directions, shattering the shields. The Ernest Rutherford is hit by a powerful blast that knocks the ship out of control. The shields go down and the aliens attack the ship's hull with laser beams. The aliens shoot the Ernest Rutherford's engines again and the ship crashes on a nearby planet. With communications down, the ship's computer initiates a lockdown. The crew runs from section to section, sealing themselves in. The aliens shoot the Ernest Rutherford's engines, breaking through the hull and setting the ship on fire.  The creatures break into the ship and begin slaughtering the crew. The crew finds a way to escape from the ship. The crew is trapped in the Ernest Rutherford. The crew figures out a way to defeat the alien creatures. The crew escapes from the Ernest Rutherford.  Wilder is locked into a cell on the alien ship. He is unable to contact the Ernest Rutherford. The alien crew is celebrating the victory over their enemy. After the alien ship lands on the planet, Wilder gets out of the cell and starts looking for an escape route. He looks for an escape route. He finds a door with a level- security code. He runs across an alien guard and fights him. He kills the alien and gets his laser rifle and laser pistol. He runs into the alien captain and kills him. Wilder is able to get to the hangar. Wilder runs into several alien crew members, killing them all. He runs into an alien commander and fights him. The alien is killed. Wilder gets into the shuttle and leaves the hangar. Wilder flies to the Ernest Rutherford. He lands the shuttle on a landing pad next to the Ernest Rutherford. He gets into the ship. Wilder runs into an alien crew member. He kills the alien. He runs into an alien guard, who wounds Wilder with a laser pistol. Wilder kills the alien. He runs into an alien commander and fights him. The alien commander is killed. Wilder heads for engineering and gets it ready for blast-off. He gets into the Ernest Rutherford's shuttle and leaves the planet.
+
+
+SCENES: Wilder is taken to the alien home world in a prison shuttle. Wilder is escorted to a prison cell. Two alien guards enter the cell and take Wilder out of his cell. He is taken to a medical facility. Wilder is strapped to an examination table. He is injected with a drug that causes him to go unconscious.
+  Wilder awakens in a medical facility. He is strapped to an examination table. An alien doctor comes in and begins to examine Wilder. The alien doctor attaches tubes to Wilder's arms and a device to his chest. The alien doctor takes Wilder's blood and begins to examine it.
+  When the alien doctor is finished with Wilder, he is taken to a prison cell. Wilder is escorted to a prison cell. Two alien guards enter the cell and take Wilder out of the cell. He is taken to a medical facility. Wilder is strapped to an examination table. An alien doctor comes in and begins to examine Wilder. The alien doctor attaches tubes to Wilder's arms and a device to his chest. The alien doctor takes Wilder's blood and begins to examine it. The alien doctor works on Wilder for a few hours. Wilder is taken back to his cell.
+MIDPOINT OF
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They take the Ernest Rutherford through the wormhole and find themselves in the middle of a battle between an alien ship and a ship from a different galaxy. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.
+
+
+SCENES: Wilder tells O'Neil to disconnect his tether.
+  Wilder tells O'Neil that the aliens are torturing him.
+  Wilder tells O'Neil that he's going to take off his headset.
+  O'Neil tries to talk Wilder out of it.
+  Wilder takes off his headset.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.  Wilder tells O'Neil to disconnect his tether. Wilder tells O'Neil that the aliens are torturing him. Wilder tells O'Neil that he's going to take off his headset. O'Neil tries to talk Wilder out of it. Wilder takes off his headset.
+
+
+SCENES: Wilder's cell is opened.
+  Wilder meets with the aliens.
+  Wilder is taken to the medical facility.
+  Wilder is taken back to his cell.
+  Wilder escapes.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.  Wilder tells O'Neil to disconnect his tether. Wilder tells O'Neil that the aliens are torturing him. Wilder tells O'Neil that he's going to take off his headset. O'Neil tries to talk Wilder out of it. Wilder takes off his headset.  Wilder's cell is opened. Wilder meets with the aliens. Wilder is taken to the medical facility. Wilder is taken back to his cell. Wilder escapes.
+
+
+SCENES:
+
+
+
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.  Wilder tells O'Neil to disconnect his tether. Wilder tells O'Neil that the aliens are torturing him. Wilder tells O'Neil that he's going to take off his headset. O'Neil tries to talk Wilder out of it. Wilder takes off his headset.  Wilder's cell is opened. Wilder meets with the aliens. Wilder is taken to the medical facility. Wilder is taken back to his cell. Wilder escapes.
+
+
+SCENES: Wilder's cell is opened. A guard takes Wilder to a medical facility.
+  Wilder is placed on a table.
+  Wilder is knocked out.
+  Wilder wakes up.
+  Wilder is placed on a table.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.  Wilder tells O'Neil to disconnect his tether. Wilder tells O'Neil that the aliens are torturing him. Wilder tells O'Neil that he's going to take off his headset. O'Neil tries to talk Wilder out of it. Wilder takes off his headset.  Wilder's cell is opened. Wilder meets with the aliens. Wilder is taken to the medical facility. Wilder is taken back to his cell. Wilder escapes.  Wilder's cell is opened. A guard takes Wilder to a medical facility. Wilder is placed on a table. Wilder is knocked out. Wilder wakes up. Wilder is placed on a table.
+
+
+SCENES: Wilder is taken to the medical facility.
+  Wilder is placed on a table.
+  Wilder is knocked out.
+  Wilder wakes up.
+  The aliens strap Wilder to a table.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.
+
+
+SCENES: Wilder is in his cell on the alien ship.
+  Wilder is in a medical facility on the alien ship.
+  Inside the Ernest Rutherford. Wilder is having trouble breathing.
+  Wilder is having hallucinations.
+  Inside the Ernest Rutherford. Wilder is starting to recover.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.
+
+
+SCENES: Wilder wakes up in a cell. He is confused and disoriented. He is taken to an examination room where he is injected with a drug that causes excruciating pain. He is then taken back to his cell.
+  Wilder realizes he's not in his own time. He is in an alien cell. He tries to think of a plan to escape.
+  Wilder breaks free from his cell. He tries to contact his ship. He sees the aliens and runs. He finds the shuttle and takes off. The ship was damaged and it starts to break up. Wilder decides to try a different approach and shoots his way into the alien's ship. He grabs a weapon and starts shooting. He fights his way through the ship and makes his way to the ship's escape pod. He tries to take off, but the engines aren't working. The ship starts to blow and Wilder is hit with shrapnel. He manages to get into a pod and tries to break free from the ship. He shoots off the ship and manages to get away.
+Your TENTH
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.  Wilder wakes up in a cell. He is confused and disoriented. He is taken to an examination room where he is injected with a drug that causes excruciating pain. He is then taken back to his cell. Wilder realizes he's not in his own time. He is in an alien cell. He tries to think of a plan to escape. Wilder breaks free from his cell. He tries to contact his ship. He sees the aliens and runs. He finds the shuttle and takes off. The ship was damaged and it starts to break up. Wilder decides to try a different approach and shoots his way into the alien's ship. He grabs a weapon and starts shooting. He fights his way through the ship and makes his way to the ship's escape pod. He tries to take off, but the engines aren't working. The ship starts to blow and Wilder is hit with shrapnel. He manages to get into a pod and tries to break free from the ship. He shoots off the ship and manages to get away.
+
+
+SCENES: Wilder wakes up in a cell. He is confused and disoriented. He is taken to an examination room where he is injected with a drug that causes excruciating pain. He is then taken back to his cell. Wilder realizes he's not in his own time. He is in an alien cell. He tries to think of a plan to escape.
+  Wilder breaks free from his cell. He tries to contact his ship. He sees the aliens and runs. He finds the shuttle and takes off. The ship was damaged and it starts to break up. Wilder decides to try a different approach and shoots his way into the alien's ship. He grabs a weapon and starts shooting. He fights his way through the ship and makes his way to the ship's escape pod. He tries to take off, but the engines aren't working. The ship starts to blow and Wilder is hit with shrapnel. He manages to get into a pod and tries to break free from the ship. He shoots off the ship and manages to get away.
+Step  Put your plot on PAPER in the form of an outline of your story. Once you have your plot mapped out, begin to write the story.
+Step  Write your STORY using the SEQUENCE OF EVENTS from your outline as your guide.
+Step  Edit, revise, and rewrite your STORY until it is the best it can be.
+Step  Add some DIALOGUE to your STORY.
+Step
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.
+
+
+SCENES: The aliens force Wilder to strip naked and then inject him with a drug.
+  The aliens make Wilder enter a chamber that is filled with a vapor they claim will make Wilder's mind more flexible.
+  Wilder's captors tell him that he is a coward and not like them. They tell him that they are superior to humans and that they are going to prove it to Wilder by torturing him.
+  Wilder is strapped to a table and left alone in the chamber.
+  When the aliens return, they find Wilder unconscious, but he is not dead.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.
+
+
+SCENES: Aliens remove Wilder's eyes and replace them with strange orbs.
+  Wilder wakes up from the operation and learns that the aliens are telepaths. He can hear them and they can hear him. Wilder is returned to his cell.
+  Wilder convinces the aliens to let him go and leave.
+  The aliens let him go and he returns to the Ernest Rutherford.
+  The crew get ready to leave, but the aliens attack and Wilder is taken prisoner.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. Wilder is taken back to his cell, but he escapes and makes his way back to the Ernest Rutherford. He takes off in the shuttle and heads back towards the wormhole.  Aliens remove Wilder's eyes and replace them with strange orbs. Wilder wakes up from the operation and learns that the aliens are telepaths. He can hear them and they can hear him. Wilder is returned to his cell. Wilder convinces the aliens to let him go and leave. The aliens let him go and he returns to the Ernest Rutherford. The crew get ready to leave, but the aliens attack and Wilder is taken prisoner.
+
+
+SCENES: Wilder wakes up in his cell. The aliens have removed his eyes and replaced them with strange orbs. Wilder hears the aliens talking in his head and learns that they are telepaths. He can hear them and they can hear him. The aliens communicate with Wilder telepathically. He can hear them and they can hear him. The aliens ask him to forgive them. They tell him that they are not evil. They are trapped on their planet by the same people who brought Wilder here. The aliens are prisoners of the same people who took Wilder captive.
+  The aliens explain that they are telepaths and that they boarded the Ernest Rutherford because they had heard about the ship and wanted to meet Wilder. They knew about Wilder's eyes and wanted to understand how they worked. They knew that Wilder's eyes would be able to see into the future and they wanted to see the future. They want to know what the future holds for their planet and for the universe. The aliens board the Ernest Rutherford, attack the crew, and take Wilder prisoner. They inject him with a drug that allows him to see into the future. The aliens explain that they wanted to use Wilder's eyes to help them find a way to escape their prison planet.
+  The aliens tell Wilder that they are not evil. They are just trying to survive. They tell him they did not hurt his crew. They just put them to sleep. Wilder learns that the aliens are trapped on their planet by the same people who took him prisoner. The aliens tell Wilder that they have been trapped on their planet for years. The same people who take Wilder prisoner are keeping them prisoner. Their planet is located in a distant galaxy and the aliens need Wilder's eyes to see into the future and learn how to get off the planet. The aliens tell Wilder that the same people who captured him and brought him here also captured them and brought them here. They want Wilder to help them find a way to escape.
+  Wilder realizes that he has been trapped on the planet for years. He doesn't know how long he has been here or how long the crew has been asleep. He has been sedated for years. The aliens explain that they found him outside the Ernest Rutherford and brought him back to their facility. They found Wilder outside the Ernest Rutherford because he escaped. The aliens explain that they used the drug that they gave Wilder to see into the future. They learned that Wilder had been taken prisoner by the same people that took them prisoner. The aliens tell Wilder that they have been prisoners on their planet for years. They tell Wilder that they need his help to find a way to escape.
+  The aliens tell Wilder that they have been studying his eyes and they have learned that he is blind. They tell Wilder that they have learned that his eyes no longer work. His eyes no longer work because the drug that they gave him destroyed his eyesight. The aliens tell Wilder that they will remove the orbs from his eyes and put them back in his sockets. They tell Wilder that he can now see with his own eyes again. The aliens let Wilder out of his cell and take him to a medical facility. The aliens remove the orbs from Wilder's eyes and replace them with his original eyes. They take the orbs and put them in a container. They explain to Wilder that they are telepathic and that they can hear his thoughts. They tell Wilder that they know that his eyes no longer work. They had to remove the orbs from his eyes because the drug destroyed his eyesight. They tell Wilder that he is blind now, but that he can see into the future and that he can see into the past.
+
+
+SUMMARY: Captain Wilder and Ensign O'Neil find a wormhole while exploring the Alpha Centauri system. They enter the wormhole and find themselves in the middle of a battle between two ships from different galaxies. The aliens shoot the Ernest Rutherford's engines, causing the ship to crash-land on a nearby planet. The crew of the Ernest Rutherford manage to get the ship ready to leave, but they are attacked by aliens and crash land again. Trapped on the ship, the crew figures out a way to defeat the aliens and escape. Wilder is taken prisoner by the aliens and taken to their home world. He is injected with a drug and taken to a medical facility where the aliens examine him. The aliens remove Wilder's eyes and replace them with strange orbs. Wilder wakes up from the operation and learns that the aliens are telepaths. He can hear them and they can hear him. The aliens tell Wilder that they are not evil. They are just trying to survive. They tell him they did not hurt his crew. They just put them to sleep. Wilder learns that the aliens are trapped on their planet by the same people who took him prisoner. The aliens tell Wilder that they have been trapped on their planet for years. The same people who take Wilder prisoner are keeping them prisoner. Their planet is located in a distant galaxy and the aliens need Wilder's eyes to see into the future and learn how to get off the planet. The aliens explain that they found him outside the Ernest Rutherford and brought him back to their facility. They found Wilder outside the Ernest Rutherford because he escaped. The aliens explain that they used the drug that they gave Wilder to see into the future. They learned that Wilder had been taken prisoner by the same people that took them prisoner. The aliens tell Wilder that they have been prisoners on their planet for years. They tell Wilder that they need his help to find a way to escape. The aliens tell Wilder that they have been studying his eyes and they have learned that he is blind. They tell Wilder that they have learned that his eyes no longer work. His eyes no longer work because the drug that they gave him destroyed his eyesight. The aliens tell Wilder that they will remove the orbs from his eyes and put them back in his sockets. They tell Wilder that he can now see with his own eyes again. The aliens let Wilder out of his cell and take him to a medical facility. The aliens remove the orbs from Wilder's eyes and replace them with his original eyes. They take the orbs and put them in a container. They explain to Wilder that they are telepathic and that they can hear his thoughts. They tell Wilder that they know that his eyes no longer work. They had to remove the orbs from his eyes because the drug destroyed his eyesight. They tell Wilder that he is blind now, but that he can see into the future and that he can see into the past.
+
+
+SCENES: Wilder is lying in bed. He has his eyes closed. He is resting. The aliens tell Wilder that they are telepathic and that they can see his thoughts. The aliens tell Wilder that they can see his life in his mind. They tell Wilder that they share his thoughts. They tell Wilder that they know that he is blind. They tell Wilder that they know that the drug destroyed his eyesight. The aliens explain to Wilder that they are telepathic and that they can hear his thoughts. They tell Wilder that they can hear him. They tell Wilder that they are telepathic. They tell Wilder that they can hear his thoughts. They tell Wilder that they share his thoughts. They tell Wilder that they can read his thoughts. They tell Wilder that they can hear his thoughts. They explain that telepathy is a form of communication and that it is just as real as talking out loud. They tell Wilder that they read his mind. They tell Wilder that they know what he is thinking. They tell Wilder that they can read minds. They tell Wilder that they can read his mind. They tell Wilder that they share his thoughts. They explain that they can read his mind. They explain that they can read his mind. They explain that they can read his thoughts. They explain that they can hear his thoughts. They explain that they can read his thoughts. They explain that they share his thoughts. They explain that they can read his mind. They explain that they can hear his thoughts. They explain that they can read his mind. They explain that they can read his thoughts. They explain that they share his thoughts. They explain that they can read his mind. They explain that they can read his thoughts.
+  Wilder is lying in bed. He has his eyes closed. He is still resting. The aliens tell Wilder that they have been studying his mind for years. They tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they have been reading his mind for years. They tell Wilder that they have been studying his mind for years. They tell Wilder that they can read his thoughts. They tell Wilder that they have been reading his mind for years. They tell Wilder that they have been studying his mind for years. They tell Wilder that they have been reading his thoughts for years. They tell Wilder that they have been studying his mind for years.
+  Wilder is lying in bed. He has his eyes closed. He is still resting. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they can read his thoughts. They tell Wilder that they have been studying his mind for years. They tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been studying his thoughts for years. The aliens tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they can read his thoughts. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they have been studying his thoughts for years. The aliens tell Wilder that they have been reading his mind for years. The aliens tell Wilder that they have been studying his thoughts for years. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been reading his thoughts for years.
+  Wilder is still lying in bed. He has his eyes closed. He is still resting. The aliens tell Wilder that they have been studying his mind for years. They tell Wilder that they have been reading his thoughts for years. They tell Wilder that they have been studying his mind for years. They tell Wilder that they can read his thoughts. The aliens tell Wilder that they have been reading his mind for years. They tell Wilder that they have been reading his thoughts for years. They tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been reading his thoughts for years. They tell Wilder that they have been studying his mind for years. They tell Wilder that they have been reading his thoughts for years. The aliens tell Wilder that they have been studying his mind for years. The aliens tell Wilder that they have been reading his
+Error communicating with OpenAI: This model's maximum context length is 4097 tokens, however you requested 4610 tokens (1610 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+Error communicating with OpenAI: This model's maximum context length is 4097 tokens, however you requested 4610 tokens (1610 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+Error communicating with OpenAI: This model's maximum context length is 4097 tokens, however you requested 4610 tokens (1610 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+Traceback (most recent call last):
+  File "C:\PlotterNovelWriter\step03_AdvancedOutline.py", line 40, in gpt3_completion
+    response = openai.Completion.create(
+  File "C:\Users\daves\AppData\Roaming\Python\Python310\site-packages\openai\api_resources\completion.py", line 31, in create
+    return super().create(*args, **kwargs)
+  File "C:\Users\daves\AppData\Roaming\Python\Python310\site-packages\openai\api_resources\abstract\engine_api_resource.py", line 100, in create
+    response, _, api_key = requestor.request(
+  File "C:\Users\daves\AppData\Roaming\Python\Python310\site-packages\openai\api_requestor.py", line 122, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "C:\Users\daves\AppData\Roaming\Python\Python310\site-packages\openai\api_requestor.py", line 329, in _interpret_response
+    self._interpret_response_line(
+  File "C:\Users\daves\AppData\Roaming\Python\Python310\site-packages\openai\api_requestor.py", line 362, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.InvalidRequestError: This model's maximum context length is 4097 tokens, however you requested 4610 tokens (1610 in your prompt; 3000 for the completion). Please reduce your prompt; or completion length.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\PlotterNovelWriter\step03_AdvancedOutline.py", line 157, in <module>
+    scenes = flesh_out_scenes(story)
+  File "C:\PlotterNovelWriter\step03_AdvancedOutline.py", line 136, in flesh_out_scenes
+    summary = gpt3_completion(prompt).replace('\s+',' ')
+  File "C:\PlotterNovelWriter\step03_AdvancedOutline.py", line 59, in gpt3_completion
+    sleep(1)
+KeyboardInterrupt
+^C
+C:\PlotterNovelWriter>

@@ -1,9 +1,0 @@
-What is the name of this character? Perform Named Entity Recognition.
-
-CHARACTER: 6. The aliens: A race of unknown creatures that attack Wilder's ship. They are vicious and brutal. They are known for their ferocity.
-
-NER:
-
-==========
-
-Unknown

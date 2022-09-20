@@ -1,9 +1,0 @@
-What is the name of this character? Perform Named Entity Recognition.
-
-CHARACTER: 2. First Mate Kevin Jones: Wilder's right-hand man. He is a level-headed and practical man. He is always the voice of reason. He is loyal to Wilder and he will follow him into battle.
-
-NER:
-
-==========
-
-Kevin Jones

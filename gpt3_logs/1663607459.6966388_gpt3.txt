@@ -1,9 +1,0 @@
-What is the name of this character? Perform Named Entity Recognition.
-
-CHARACTER: 3. Ensign Susan smith: The ship's communications officer. She is a bright and bubbly person. She is always upbeat and positive. She is known for her cheerful attitude.
-
-NER:
-
-==========
-
-Ensign Susan Smith

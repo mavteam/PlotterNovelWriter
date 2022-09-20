@@ -1,9 +1,0 @@
-What is the name of this character? Perform Named Entity Recognition.
-
-CHARACTER: 1. Captain J.T. Wilder: The story's protagonist. He is the captain of the starship USS Ernest Rutherford. He is a brave and brave and determined leader. He is always looking out for his crew and he will do whatever it takes to save them.
-
-NER:
-
-==========
-
-Captain J.T. Wilder
