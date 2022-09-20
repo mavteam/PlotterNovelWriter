@@ -1,7 +1,7 @@
-Write a concise summary of the following story.
+Write a clear and concise summary of the following:
 
 
 <<STORY>>
 
 
-CONCISE SUMMARY:
+CLEAR AND CONCISE SUMMARY:

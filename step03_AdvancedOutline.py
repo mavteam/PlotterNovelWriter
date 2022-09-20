@@ -121,17 +121,21 @@ def flesh_out_scenes(story):
     for plot in plot_elements:
         print('\n\n',count,'of',len(plot_elements))
         count = count + 1
-        plot = re.sub('\d+:', '', plot).strip()  # clean up any numbered lists
+        plot = plot.replace(':','').strip()
+        plot = re.sub('\d+', '', plot).strip()  # clean up any numbered lists
         print('\n\nPLOT BEAT:', plot)
         prompt = open_file('prompt_plot_scene.txt').replace('<<SUMMARY>>', summary).replace('<<PLOT>>', plot)
-        new_scenes = gpt3_completion(prompt, temp=0.5, engine='davinci', tokens=1000, stop=['STORY', 'Chapter', 'CHAPTER', '6'])
+        new_scenes = gpt3_completion(prompt, temp=0.5, engine='davinci', tokens=1000, stop=['STORY', 'Chapter', 'CHAPTER', '5'])
         new_scenes = new_scenes.replace('NEXT','').replace('SCENE','').replace(':','').strip()  # remove SCENE tags
         new_scenes = re.sub('\d+','', new_scenes)  # remove scene numbers
         new_scenes = re.sub('\n+','\n', new_scenes)  #  remove duplicate lines
         new_scenes = new_scenes.splitlines()  # split into list
         text = ''
+        print('\n\nSCENES:')
         for i in new_scenes:
             i = i.strip()
+            if len(i) == 0:
+                continue
             info = {'ID': idx, 'SCENE': i}  # it might be beneficial to have a "long version" and "short version" of each scene, for recursive summarization
             print(info)
             scenes.append(info)
